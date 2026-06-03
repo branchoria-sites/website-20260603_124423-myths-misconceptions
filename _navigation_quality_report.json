@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-06-03T11:38:07.072101Z",
+  "summary": {
+    "total_pages_with_permalink": 281,
+    "visible_pages": 240,
+    "hidden_pages": 41,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_commercial_professio_dd3a05",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_condescending_correc_7062df",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_continued_influence_15b78f",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_education_myth_corre_425e93",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_expert_trust_health_481656",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_false_balance_claims_5530ff",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_index",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_mental_models_myths_2fa808",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_misinformation_disin_12ff83",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_misleading_analogies_a297a0",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_personal_experience_bd112b",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_political_myth_resis_f90f95",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_replacement_stories_587456",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_commercial_professio_dd3a05",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_condescending_correc_7062df",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_continued_influence_15b78f",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_education_myth_corre_425e93",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_expert_trust_health_481656",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_false_balance_claims_5530ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_mental_models_myths_2fa808",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_misinformation_disin_12ff83",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_misleading_analogies_a297a0",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_personal_experience_bd112b",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_political_myth_resis_f90f95",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_replacement_stories_587456",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362_index",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362_repetition_familiari_8b4976",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_commercial_professio_dd3a05",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_condescending_correc_7062df",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_continued_influence_15b78f",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_education_myth_corre_425e93",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_expert_trust_health_481656",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_false_balance_claims_5530ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_mental_models_myths_2fa808",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_misinformation_disin_12ff83",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_misleading_analogies_a297a0",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_personal_experience_bd112b",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_political_myth_resis_f90f95",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_replacement_stories_587456",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_index",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_commercial_professio_dd3a05",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_condescending_correc_7062df",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_continued_influence_15b78f",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_education_myth_corre_425e93",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_expert_trust_health_481656",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_false_balance_claims_5530ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_mental_models_myths_2fa808",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_misinformation_disin_12ff83",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_misleading_analogies_a297a0",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_personal_experience_bd112b",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_political_myth_resis_f90f95",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_replacement_stories_587456",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_sciencey_language_94b7a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_chronological_feeds_4a8d76",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_index",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_commercial_professio_dd3a05",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_condescending_correc_7062df",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_continued_influence_15b78f",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_correction_timing_c61362",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_education_myth_corre_425e93",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_expert_trust_health_481656",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_false_balance_claims_5530ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1",
+        "to": "Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d",
+        "type": "sibling"
+      }
+    ]
+  }
+}

@@ -1,0 +1,762 @@
+sidebar_generated:
+- title: Mythcraft
+  title_full: Myths and misconcept
+  url: /myths-and-misconceptions/
+  children:
+  - title: 10 Brain
+    title_full: Why the 10 Percent Brain Myth Endures | Mythcraft
+    url: /10-brain/
+    children:
+    - title: Belief Appeal
+      title_full: Why the 10 Percent Myth Feels True | 10 Brain
+      url: /belief-appeal/
+    - title: Brain Damage
+      title_full: Why Small Brain Injuries Can Matter | 10 Brain
+      url: /brain-damage/
+    - title: Brain Scans
+      title_full: What Brain Scans Do Not Show | 10 Brain
+      url: /brain-scans/
+    - title: Neuroplasticity
+      title_full: Neuroplasticity Is Not Hidden Superpower | 10 Brain
+      url: /neuroplasticity/
+    - title: William James
+      title_full: Did William James Start the Brain Myth? | 10 Brain
+      url: /william-james/
+  - title: Algorithms
+    title_full: How Platforms Help Myths Travel Faster | Mythcraft
+    url: /algorithms/
+    children:
+    - title: Creator Rewards
+      title_full: When Myths Become a Business Model | Algorithms
+      url: /creator-rewards/
+    - title: Feed Fixes
+      title_full: Are Chronological Feeds Enough? | Algorithms
+      url: /feed-fixes/
+    - title: Metric Gap
+      title_full: Do Clicks Show What People Want? | Algorithms
+      url: /metric-gap/
+    - title: Outrage Boost
+      title_full: Can Angry Replies Help Myths Spread? | Algorithms
+      url: /outrage-boost/
+    - title: Rumour Loops
+      title_full: How Small Rumours Become Mass Myths | Algorithms
+      url: /rumour-loops/
+  - title: Analogies
+    title_full: When Helpful Analogies Teach the Wrong Lesson | Mythcraft
+    url: /analogies/
+    children:
+    - title: Analogy Overextension
+      title_full: When Analogies Lead to Incomplete Understanding | Analogies
+      url: /analogy-overextension/
+    - title: Geologic Time
+      title_full: Why Spatial Metaphors Mislead About Geological Timelines | Analogies
+      url: /geologic-time/
+    - title: Historical Metaphors
+      title_full: How 19th Century Analogies Skewed Scientific Thinking | Analogies
+      url: /historical-metaphors/
+    - title: Plumbing Analogy
+      title_full: How Plumbing Comparisons Misrepresent Blood Circulation | Analogies
+      url: /plumbing-analogy/
+    - title: Teaching Analogy Limits
+      title_full: How Clear Framing Prevents Misleading Analogies in Education | Analogies
+      url: /teaching-analogy-limits/
+  - title: Anecdotes
+    title_full: When Personal Experience Becomes a Myth | Mythcraft
+    url: /anecdotes/
+    children:
+    - title: Health stories
+      title_full: Why one health story can overpower numbers | Anecdotes
+      url: /health-stories/
+    - title: Safety reports
+      title_full: What safety reports can and cannot prove | Anecdotes
+      url: /safety-reports/
+    - title: Small samples
+      title_full: When a handful of cases looks like proof | Anecdotes
+      url: /small-samples/
+    - title: Story limits
+      title_full: How to respect stories without overclaiming | Anecdotes
+      url: /story-limits/
+    - title: Timing trap
+      title_full: Did it work, or did time pass? | Anecdotes
+      url: /timing-trap/
+  - title: Backfire
+    title_full: Does Debunking Really Make Myths Stronger? | Mythcraft
+    url: /backfire/
+    children:
+    - title: Correction Decay
+      title_full: Why One Fact Check Is Often Not Enough | Backfire
+      url: /correction-decay/
+    - title: Distrust Risk
+      title_full: When the Correction Becomes the Problem | Backfire
+      url: /distrust-risk/
+    - title: Naming Myths
+      title_full: How Much Should a Debunk Repeat the Myth? | Backfire
+      url: /naming-myths/
+    - title: Political Corrections
+      title_full: When Corrections Work But Minds Barely Move | Backfire
+      url: /political-corrections/
+    - title: Study Evidence
+      title_full: Did Researchers Actually Find Backfire? | Backfire
+      url: /study-evidence/
+  - title: Campaigns
+    title_full: When Falsehoods Are Spread on Purpose | Mythcraft
+    url: /campaigns/
+    children:
+    - title: Astroturfing
+      title_full: When a Crowd Is Not a Crowd | Campaigns
+      url: /astroturfing/
+    - title: IRA Case
+      title_full: The Case That Made Coordination Visible | Campaigns
+      url: /ira-case/
+    - title: Media Coverage
+      title_full: Reporting Rumours Without Spreading Them | Campaigns
+      url: /media-coverage/
+    - title: Platform Rules
+      title_full: Can Platforms Stop Manipulation, Not Debate? | Campaigns
+      url: /platform-rules/
+    - title: Prebunking
+      title_full: Learning the Trick Before the Lie | Campaigns
+      url: /prebunking-150aba/
+  - title: Commercial Myths
+    title_full: When Myths Come in Professional Packaging | Mythcraft
+    url: /commercial-myths/
+    children:
+    - title: Adoption paths
+      title_full: How packaged myths enter school routines | Commercial Myths
+      url: /adoption-paths/
+    - title: Brain based
+      title_full: Why brain words make myths sound smarter | Commercial Myths
+      url: /brain-based/
+    - title: Brain Gym
+      title_full: When movement becomes a brain myth | Commercial Myths
+      url: /brain-gym/
+    - title: Learning styles
+      title_full: Do learning styles products really help? | Commercial Myths
+      url: /learning-styles-2d3803/
+    - title: “Evidence Based”
+      title_full: When evidence based becomes a sales phrase | Commercial Myths
+      url: /evidence-based/
+  - title: Common Sense
+    title_full: When Common Sense Leads US Wrong | Mythcraft
+    url: /common-sense/
+    children:
+    - title: Accuracy prompts
+      title_full: Can one prompt reduce false sharing? | Common Sense
+      url: /accuracy-prompts/
+    - title: Full moons
+      title_full: Do full moons really change behavior? | Common Sense
+      url: /full-moons/
+    - title: Hindsight
+      title_full: Why outcomes seem obvious after they happen | Common Sense
+      url: /hindsight/
+    - title: Learning styles
+      title_full: Do learning styles actually improve learning? | Common Sense
+      url: /learning-styles-cb868a/
+    - title: Prediction test
+      title_full: What would we see if it were true? | Common Sense
+      url: /prediction-test/
+  - title: Concept Change
+    title_full: How Learners Replace Wrong Ideas | Mythcraft
+    url: /concept-change/
+    children:
+    - title: Conflict
+      title_full: When Surprises Actually Change Thinking | Concept Change
+      url: /conflict/
+    - title: Diagnostics
+      title_full: The Questions That Reveal Misconceptions | Concept Change
+      url: /diagnostics/
+    - title: Everyday Models
+      title_full: Why Wrong Science Ideas Feel Sensible | Concept Change
+      url: /everyday-models/
+    - title: Private Universe
+      title_full: What A Private Universe Revealed | Concept Change
+      url: /private-universe/
+    - title: Replacement
+      title_full: Why Corrections Need Better Explanations | Concept Change
+      url: /replacement-494721/
+  - title: Debunking
+    title_full: The Three Parts of a Better Debunk | Mythcraft
+    url: /debunking/
+    children:
+    - title: Fact first
+      title_full: Why corrections should lead with the fact | Debunking
+      url: /fact-first/
+    - title: Health myths
+      title_full: How public health corrections avoid repeating myths | Debunking
+      url: /health-myths/
+    - title: Name it
+      title_full: When should a correction repeat the myth? | Debunking
+      url: /name-it/
+    - title: Replacement
+      title_full: Why a better story beats a bare denial | Debunking
+      url: /replacement-beb36b/
+    - title: The trick
+      title_full: Show the trick that made the myth plausible | Debunking
+      url: /the-trick/
+  - title: Expert Trust
+    title_full: When Expert Trust Carries Bad Claims | Mythcraft
+    url: /expert-trust/
+    children:
+    - title: AI Doctors
+      title_full: Can You Trust the Doctor on Screen? | Expert Trust
+      url: /ai-doctors/
+    - title: False Balance
+      title_full: When One Expert Is Not Half the Debate | Expert Trust
+      url: /false-balance-0e8d1b/
+    - title: MMR Case
+      title_full: How the MMR Myth Borrowed Medical Authority | Expert Trust
+      url: /mmr-case/
+    - title: One Doctor
+      title_full: Why One Doctor Can Keep a Myth Alive | Expert Trust
+      url: /one-doctor/
+    - title: Surgisphere
+      title_full: When Prestigious Journals Get It Wrong | Expert Trust
+      url: /surgisphere/
+  - title: Fact Checks
+    title_full: Why Fact Checking Is Not Enough | Mythcraft
+    url: /fact-checks/
+    children:
+    - title: Better Story
+      title_full: Why Debunking Needs a Replacement Story | Fact Checks
+      url: /better-story-524703/
+    - title: Mutation
+      title_full: How Myths Survive After Being Debunked | Fact Checks
+      url: /mutation/
+    - title: Platforms
+      title_full: When Platforms Reward Myths Over Accuracy | Fact Checks
+      url: /platforms/
+    - title: Prebunking
+      title_full: Can Prebunking Stop Myths Earlier? | Fact Checks
+      url: /prebunking-810fc5/
+    - title: Speed Gap
+      title_full: Why Myths Move Faster Than Corrections | Fact Checks
+      url: /speed-gap/
+  - title: Falling Objects
+    title_full: Why Common Sense Gets Falling Objects Wrong | Mythcraft
+    url: /falling-objects/
+    children:
+    - title: Galileo
+      title_full: Did Galileo really prove it from a tower? | Falling Objects
+      url: /galileo/
+    - title: Home Tests
+      title_full: Try the falling object myth for yourself | Falling Objects
+      url: /home-tests/
+    - title: Moon Drop
+      title_full: Why the hammer and feather landed together | Falling Objects
+      url: /moon-drop/
+    - title: Paper Shape
+      title_full: Why crumpled paper beats flat paper | Falling Objects
+      url: /paper-shape/
+    - title: Terminal Speed
+      title_full: Why falling objects stop speeding up | Falling Objects
+      url: /terminal-speed/
+  - title: False Balance
+    title_full: When Both Sides Framing Misleads Readers | Mythcraft
+    url: /false-balance/
+    children:
+    - title: Climate Debate
+      title_full: Why Climate Science Looked More Divided Than It Was | False Balance
+      url: /climate-debate/
+    - title: Due Impartiality
+      title_full: Why Fairness Is Not Always Fifty Fifty | False Balance
+      url: /due-impartiality/
+    - title: Equal Airtime
+      title_full: Does Equal Airtime Create False Certainty? | False Balance
+      url: /equal-airtime/
+    - title: Evidence Weighting
+      title_full: What Does Fair Reporting Look Like Instead? | False Balance
+      url: /evidence-weighting/
+    - title: Vaccine Coverage
+      title_full: Can Balanced Reporting Make Vaccine Myths Stronger? | False Balance
+      url: /vaccine-coverage/
+  - title: False Info
+    title_full: 'Misinformation or Disinformation: Why Intent Matters | Mythcraft'
+    url: /false-info/
+    children:
+    - title: Better fixes
+      title_full: Why corrections need a better story | False Info
+      url: /better-fixes/
+    - title: Flood tactics
+      title_full: How deception campaigns flood the truth | False Info
+      url: /flood-tactics/
+    - title: Intent test
+      title_full: Why intent changes the right response | False Info
+      url: /intent-test/
+    - title: Overcalling
+      title_full: When disinformation is the wrong label | False Info
+      url: /overcalling/
+    - title: Platform risk
+      title_full: Why platforms look beyond single posts | False Info
+      url: /platform-risk/
+  - title: Familiarity
+    title_full: Why Repetition Makes Claims Feel True | Mythcraft
+    url: /familiarity/
+    children:
+    - title: After Correction
+      title_full: Why corrected myths can still sound true | Familiarity
+      url: /after-correction/
+    - title: Better Corrections
+      title_full: How to correct a myth without boosting it | Familiarity
+      url: /better-corrections/
+    - title: Climate Claims
+      title_full: When repeated climate claims feel established | Familiarity
+      url: /climate-claims/
+    - title: Fluency
+      title_full: When easy thinking feels like evidence | Familiarity
+      url: /fluency/
+    - title: Headlines
+      title_full: Why one headline can feel familiar enough | Familiarity
+      url: /headlines/
+  - title: Health Claims
+    title_full: Why Helpful Health Advice Can Be Wrong | Mythcraft
+    url: /health-claims/
+    children:
+    - title: Cancer Stories
+      title_full: When Cancer Cure Stories Leave Out Treatment | Health Claims
+      url: /cancer-stories/
+    - title: Kind Corrections
+      title_full: How to Correct Health Myths Kindly | Health Claims
+      url: /kind-corrections/
+    - title: Natural Remedies
+      title_full: When Natural Sounds Safer Than Evidence | Health Claims
+      url: /natural-remedies/
+    - title: Urgent Warnings
+      title_full: Why Urgent Health Warnings Spread So Fast | Health Claims
+      url: /urgent-warnings/
+    - title: Vaccine Fears
+      title_full: Why Vaccine Myths Feel Protective to Parents | Health Claims
+      url: /vaccine-fears/
+  - title: Identity
+    title_full: Why Trusted People Make Myths Stick | Mythcraft
+    url: /identity/
+    children:
+    - title: Expert Limits
+      title_full: When experts are trusted for the wrong thing | Identity
+      url: /expert-limits/
+    - title: Family Advice
+      title_full: Why family health myths feel so convincing | Identity
+      url: /family-advice/
+    - title: Group Loyalty
+      title_full: When a myth becomes a loyalty test | Identity
+      url: /group-loyalty/
+    - title: Influencers
+      title_full: Why familiar influencers can sound reliable | Identity
+      url: /influencers-5b6d7d/
+    - title: Trusted Fixes
+      title_full: How corrections avoid sounding like attacks | Identity
+      url: /trusted-fixes/
+  - title: Influencers
+    title_full: When Authority Shortcuts Spread Myths | Mythcraft
+    url: /influencers/
+    children:
+    - title: Check First
+      title_full: Why Creators Share Before They Check | Influencers
+      url: /check-first/
+    - title: Felt Trust
+      title_full: Why Influencer Health Advice Feels Personal | Influencers
+      url: /felt-trust/
+    - title: Lane Drift
+      title_full: When Trusted Influencers Leave Their Lane | Influencers
+      url: /lane-drift/
+    - title: Local Voices
+      title_full: Who Can Correct Influencer Myths? | Influencers
+      url: /local-voices/
+    - title: Viral Proof
+      title_full: When Likes Make Myths Look True | Influencers
+      url: /viral-proof/
+  - title: Key Terms
+    title_full: 'Myth or Misconception: What Is the Difference? | Mythcraft'
+    url: /key-terms/
+    children:
+    - title: Better Corrections
+      title_full: Correct the Story or Fix the Model? | Key Terms
+      url: /better-corrections-e615f7/
+    - title: Cultural Myths
+      title_full: How False Claims Become Shared Stories | Key Terms
+      url: /cultural-myths/
+    - title: Mistaken Models
+      title_full: Why Wrong Explanations Can Feel Right | Key Terms
+      url: /mistaken-models/
+    - title: Myth to Model
+      title_full: When Repeated Claims Shape Understanding | Key Terms
+      url: /myth-to-model/
+    - title: Tell Them Apart
+      title_full: Is It a Myth or a Misconception? | Key Terms
+      url: /tell-them-apart/
+  - title: Learning Styles
+    title_full: Do Learning Styles Really Improve Learning? | Mythcraft
+    url: /learning-styles/
+    children:
+    - title: Content first
+      title_full: Let the content choose the mode | Learning Styles
+      url: /content-first/
+    - title: Labels risk
+      title_full: Can a helpful label hold students back? | Learning Styles
+      url: /labels-risk/
+    - title: Matching claim
+      title_full: Why the matching claim falls apart | Learning Styles
+      url: /matching-claim/
+    - title: Self labels
+      title_full: When students believe they learn only one way | Learning Styles
+      url: /self-labels/
+    - title: Survey trap
+      title_full: The planning time learning styles steal | Learning Styles
+      url: /survey-trap/
+  - title: Left Brain
+    title_full: Are People Really Left Brain or Right Brain? | Mythcraft
+    url: /left-brain/
+    children:
+    - title: Creativity myth
+      title_full: Is creativity really a right brain skill? | Left Brain
+      url: /creativity-myth/
+    - title: Imaging study
+      title_full: Did brain scans find left brained people? | Left Brain
+      url: /imaging-study/
+    - title: Lateralisation
+      title_full: What brain lateralisation really means | Left Brain
+      url: /lateralisation/
+    - title: Learner labels
+      title_full: When brain labels shrink expectations | Left Brain
+      url: /learner-labels-f9b3ab/
+    - title: Style matching
+      title_full: Why matching styles is not enough | Left Brain
+      url: /style-matching/
+  - title: Media Literacy
+    title_full: How Media Literacy Prevents Myths | Mythcraft
+    url: /media-literacy/
+    children:
+    - title: Emotional Headlines
+      title_full: When outrage should make you pause | Media Literacy
+      url: /emotional-headlines/
+    - title: Lateral reading
+      title_full: Why leaving the page can reveal more | Media Literacy
+      url: /lateral-reading/
+    - title: Practice limits
+      title_full: Why one lesson is rarely enough | Media Literacy
+      url: /practice-limits/
+    - title: Prebunking
+      title_full: Can warning people before myths work better? | Media Literacy
+      url: /prebunking-869b67/
+    - title: SIFT method
+      title_full: A simple checklist for suspicious claims | Media Literacy
+      url: /sift-method/
+  - title: Memory
+    title_full: Why Memory Is Not a Video Recording | Mythcraft
+    url: /memory/
+    children:
+    - title: Confidence
+      title_full: When Should We Trust Witness Confidence? | Memory
+      url: /confidence/
+    - title: Fair Lineups
+      title_full: What Makes an Eyewitness Lineup Fair? | Memory
+      url: /fair-lineups/
+    - title: Flashbulb Memory
+      title_full: Why Vivid Memories Can Still Be Wrong | Memory
+      url: /flashbulb-memory/
+    - title: Leading Questions
+      title_full: Can a Question Change a Memory? | Memory
+      url: /leading-questions/
+    - title: Retelling
+      title_full: Why Repeated Stories Feel More True | Memory
+      url: /retelling/
+  - title: Mental Models
+    title_full: Why Wrong Ideas Can Feel Coherent | Mythcraft
+    url: /mental-models/
+    children:
+    - title: Better Story
+      title_full: How Better Stories Beat Bad Myths | Mental Models
+      url: /better-story/
+    - title: Contradictions
+      title_full: When Contradictions Make Myths Stronger | Mental Models
+      url: /contradictions/
+    - title: Earth Models
+      title_full: When Wrong Earth Models Make Sense | Mental Models
+      url: /earth-models/
+    - title: Natural Myths
+      title_full: Why Natural Health Myths Feel Coherent | Mental Models
+      url: /natural-myths/
+    - title: Retracted Causes
+      title_full: Why False Causes Stick After Correction | Mental Models
+      url: /retracted-causes/
+  - title: Neuromyths
+    title_full: Why Brain Myths Spread in Schools | Mythcraft
+    url: /neuromyths/
+    children:
+    - title: Brain Gym
+      title_full: When movement breaks become brain myths | Neuromyths
+      url: /brain-gym-e79dce/
+    - title: Brain labels
+      title_full: Why left brain labels mislead teachers | Neuromyths
+      url: /brain-labels/
+    - title: Critical periods
+      title_full: Are children ever too late to learn? | Neuromyths
+      url: /critical-periods/
+    - title: Learning styles
+      title_full: Do learning styles really improve lessons? | Neuromyths
+      url: /learning-styles-17c40a/
+    - title: Training rubrics
+      title_full: How teacher training can preserve myths | Neuromyths
+      url: /training-rubrics/
+  - title: Old Stories
+    title_full: Why Corrected Myths Still Linger | Mythcraft
+    url: /old-stories/
+    children:
+    - title: Fire Study
+      title_full: Why the warehouse fire myth lingered | Old Stories
+      url: /fire-study/
+    - title: Memory Gap
+      title_full: Knowing it is false is not enough | Old Stories
+      url: /memory-gap/
+    - title: Myth vs Fact
+      title_full: When myth versus fact pages fall short | Old Stories
+      url: /myth-vs-fact/
+    - title: Old Causes
+      title_full: Why corrected causes still feel useful | Old Stories
+      url: /old-causes/
+    - title: Replacement
+      title_full: The missing piece in stronger corrections | Old Stories
+      url: /replacement/
+  - title: Platform Design
+    title_full: Can Platform Design Slow Myths Down? | Mythcraft
+    url: /platform-design/
+    children:
+    - title: Accuracy Nudges
+      title_full: Why Asking About Accuracy Changes Sharing | Platform Design
+      url: /accuracy-nudges/
+    - title: Algorithms
+      title_full: The Hidden Engine Behind Myth Spread | Platform Design
+      url: /algorithms-84eed4/
+    - title: Community Notes
+      title_full: Can Crowds Catch Viral Misinformation Fast Enough? | Platform Design
+      url: /community-notes/
+    - title: Sharing Prompts
+      title_full: Can a Pause Stop a False Claim? | Platform Design
+      url: /sharing-prompts/
+    - title: Warning Labels
+      title_full: When Do Misinformation Labels Actually Work? | Platform Design
+      url: /warning-labels/
+  - title: Politics
+    title_full: Why Political Myths Resist Correction | Mythcraft
+    url: /politics/
+    children:
+    - title: After Fact Checks
+      title_full: Why Fact Checks Fix Facts, Not Worldviews | Politics
+      url: /after-fact-checks/
+    - title: Group Cues
+      title_full: How Online Crowds Make Myths Feel True | Politics
+      url: /group-cues/
+    - title: Low Conflict
+      title_full: How to Correct Myths Without Starting a Fight | Politics
+      url: /low-conflict/
+    - title: Smart Defenses
+      title_full: When Smart People Defend False Political Claims | Politics
+      url: /smart-defenses/
+    - title: Social Risk
+      title_full: Why Changing Your Mind Can Feel Like Betrayal | Politics
+      url: /social-risk/
+  - title: Prebunking
+    title_full: Can You Protect People Before Myths Spread? | Mythcraft
+    url: /prebunking/
+    children:
+    - title: Bad News game
+      title_full: Why pretending to mislead can teach resistance | Prebunking
+      url: /bad-news-game/
+    - title: Election rumours
+      title_full: How election prebunks protect basic voting facts | Prebunking
+      url: /election-rumours/
+    - title: Emotion cues
+      title_full: Can a warning slow outrage sharing? | Prebunking
+      url: /emotion-cues/
+    - title: Fact vs tactic
+      title_full: Should a prebunk name the myth or the trick? | Prebunking
+      url: /fact-vs-tactic/
+    - title: Fading effects
+      title_full: Why one prebunk is not permanent immunity | Prebunking
+      url: /fading-effects/
+  - title: Rumour Gaps
+    title_full: Why Debunks Need a Better Story | Mythcraft
+    url: /rumour-gaps/
+    children:
+    - title: Bare Denials
+      title_full: Why Saying False Is Not Enough | Rumour Gaps
+      url: /bare-denials/
+    - title: Fire Scenario
+      title_full: The Fire Rumour That Still Explains Too Much | Rumour Gaps
+      url: /fire-scenario/
+    - title: Outbreak Origins
+      title_full: Why Outbreak Rumours Need Origin Stories | Rumour Gaps
+      url: /outbreak-origins/
+    - title: Uncertainty
+      title_full: When We Do Not Know Yet Is Better | Rumour Gaps
+      url: /uncertainty-3560c5/
+    - title: Vote Delays
+      title_full: When Slow Counting Needs a Better Story | Rumour Gaps
+      url: /vote-delays/
+  - title: Sciencey Words
+    title_full: Why Sciencey Language Makes Myths Persuasive | Mythcraft
+    url: /sciencey-words/
+    children:
+    - title: Brain Jargon
+      title_full: The Brain Words That Sell Weak Explanations | Sciencey Words
+      url: /brain-jargon/
+    - title: Clinically Proven
+      title_full: When 'Clinically Proven' Does Not Prove Much | Sciencey Words
+      url: /clinically-proven/
+    - title: Detox Claims
+      title_full: What 'Detox' Claims Usually Leave Out | Sciencey Words
+      url: /detox-claims/
+    - title: Quantum Claims
+      title_full: Why 'Quantum' Makes Weak Claims Sound Deeper | Sciencey Words
+      url: /quantum-claims/
+    - title: Untestable Claims
+      title_full: The Claim That Cannot Lose | Sciencey Words
+      url: /untestable-claims/
+  - title: Slogans
+    title_full: Why Myths Beat Nuance in a Sentence | Mythcraft
+    url: /slogans/
+    children:
+    - title: Backfire Risk
+      title_full: Can myth busting accidentally spread myths? | Slogans
+      url: /backfire-risk/
+    - title: Corrections
+      title_full: What should replace a false slogan? | Slogans
+      url: /corrections/
+    - title: Emotion
+      title_full: Why emotional myths travel faster | Slogans
+      url: /emotion/
+    - title: Health Slogans
+      title_full: When health slogans leave out risk | Slogans
+      url: /health-slogans/
+    - title: Repetition
+      title_full: Why repetition makes myths feel true | Slogans
+      url: /repetition/
+  - title: Study Practice
+    title_full: What Helps Learning More Than Learning Styles? | Mythcraft
+    url: /study-practice/
+    children:
+    - title: Check gaps
+      title_full: How recall reveals what students really know | Study Practice
+      url: /check-gaps/
+    - title: Fit the task
+      title_full: Match the method to the lesson, not the label | Study Practice
+      url: /fit-the-task/
+    - title: Self testing
+      title_full: Why rereading feels easier but works less well | Study Practice
+      url: /self-testing/
+    - title: Style surveys
+      title_full: Why learning preferences do not prove learning styles | Study Practice
+      url: /style-surveys/
+  - title: Teacher Belief
+    title_full: How Common Is Belief in Learning Styles? | Mythcraft
+    url: /teacher-belief/
+    children:
+    - title: Correction
+      title_full: What changes minds about learning styles | Teacher Belief
+      url: /correction/
+    - title: Learner labels
+      title_full: The hidden risk of learner labels | Teacher Belief
+      url: /learner-labels/
+    - title: Reported use
+      title_full: When belief becomes classroom routine | Teacher Belief
+      url: /reported-use/
+    - title: Survey wording
+      title_full: Why survey questions make the myth easy to endorse | Teacher Belief
+      url: /survey-wording/
+    - title: Teacher belief
+      title_full: Why new teachers still inherit learning styles | Teacher Belief
+      url: /teacher-belief-a45b18/
+  - title: Teacher Corrections
+    title_full: Can Teacher Training Reduce Education Myths? | Mythcraft
+    url: /teacher-corrections/
+    children:
+    - title: Learning styles
+      title_full: What Should Replace Learning Styles? | Teacher Corrections
+      url: /learning-styles-17414b/
+    - title: Personalised fixes
+      title_full: Should Every Teacher Hear Every Myth? | Teacher Corrections
+      url: /personalised-fixes/
+    - title: Practice gap
+      title_full: When Debunking Does Not Change Teaching | Teacher Corrections
+      url: /practice-gap/
+    - title: Refutation texts
+      title_full: Why Some Myth Corrections Actually Stick | Teacher Corrections
+      url: /refutation-texts/
+    - title: Training design
+      title_full: How Teacher Training Can Keep Myths Gone | Teacher Corrections
+      url: /training-design/
+  - title: Timing
+    title_full: When Should a Myth Be Corrected? | Mythcraft
+    url: /timing/
+    children:
+    - title: Amplification
+      title_full: Can a correction spread the myth further? | Timing
+      url: /amplification/
+    - title: Familiarity
+      title_full: Why do repeated myths start feeling true? | Timing
+      url: /familiarity-7d16d3/
+    - title: High harm
+      title_full: Which myths need the fastest correction? | Timing
+      url: /high-harm/
+    - title: Holding fixes
+      title_full: When should you correct before certainty? | Timing
+      url: /holding-fixes/
+    - title: Late labels
+      title_full: Do warning labels arrive too late? | Timing
+      url: /late-labels/
+  - title: Tone
+    title_full: Why Shaming People Makes Corrections Harder | Mythcraft
+    url: /tone/
+    children:
+    - title: Face saving
+      title_full: How to Correct Without Cornering Someone | Tone
+      url: /face-saving/
+    - title: Intent
+      title_full: Mistaken Is Not Always Malicious | Tone
+      url: /intent/
+    - title: Public replies
+      title_full: When Public Correction Becomes Public Shaming | Tone
+      url: /public-replies/
+    - title: Reactance
+      title_full: Why Harsh Corrections Can Trigger Defiance | Tone
+      url: /reactance/
+    - title: Replacements
+      title_full: The Missing Piece in Many Corrections | Tone
+      url: /replacements/
+  - title: Uncertainty
+    title_full: Why Uncertainty Makes Myths Appealing | Mythcraft
+    url: /uncertainty/
+    children:
+    - title: Anxiety Effects
+      title_full: Why Do Anxious People Prefer Simple Explanations? | Uncertainty
+      url: /anxiety-effects/
+    - title: Blame Seeking
+      title_full: Why Uncertainty Creates a Search for Someone to Blame | Uncertainty
+      url: /blame-seeking/
+    - title: Communicating
+      title_full: Can Honest Uncertainty Build More Public Trust? | Uncertainty
+      url: /communicating/
+    - title: Fake News
+      title_full: When Feelings Override Evidence in News Judgments | Uncertainty
+      url: /fake-news/
+    - title: Need Closure
+      title_full: How the Need for Closure Fuels Conspiracy Beliefs | Uncertainty
+      url: /need-closure/
+  - title: Vaccines
+    title_full: What the Vaccine Autism Myth Teaches Debunkers | Mythcraft
+    url: /vaccines/
+    children:
+    - title: Large studies
+      title_full: What Larger Studies Found About MMR | Vaccines
+      url: /large-studies/
+    - title: Respectful correction
+      title_full: How To Correct The Myth Without Harm | Vaccines
+      url: /respectful-correction/
+    - title: Shifting claims
+      title_full: When The Claim Changes Its Target | Vaccines
+      url: /shifting-claims/
+    - title: Timing trap
+      title_full: Why The Timing Can Feel So Convincing | Vaccines
+      url: /timing-trap-49e224/
+    - title: Wakefield paper
+      title_full: How One Weak Paper Became a Public Myth | Vaccines
+      url: /wakefield-paper/
