@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-authority/
 description: Focused pages that expand on Influencers.
-date: '2026-06-03'
+date: '2026-06-09'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
 parent_title: Influencers | Myths And Misconceptions

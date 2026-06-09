@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-fact/
 description: Focused pages that expand on Fact Checks.
-date: '2026-06-03'
+date: '2026-06-09'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
 parent_title: Fact Checks | Myths And Misconceptions

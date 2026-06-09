@@ -45,7 +45,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">10 Brain</span>
-              <span class="ct-node-title-full">Why the 10 Percent Brain Myth Endures | Mythcraft</span>
+              <span class="ct-node-title-full">Why the 10 Percent Brain Myth Endures</span>
               <span class="ct-node-summary">The 10 percent brain claim survives because it turns complex neuroscience into an appealing promise of untapped ability.</span>
             </span>
           </a>
@@ -67,7 +67,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">William James</span>
-                  <span class="ct-node-title-full">Did William James Start the Brain Myth? | 10 Brain</span>
+                  <span class="ct-node-title-full">Did William James Start the Brain Myth?</span>
                   <span class="ct-node-summary">William James wrote about unrealised human potential, but later retellings turned that idea into a false numerical claim about brain use.</span>
                 </span>
               </a>
@@ -87,7 +87,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Neuroplasticity</span>
-                  <span class="ct-node-title-full">Neuroplasticity Is Not Hidden Superpower | 10 Brain</span>
+                  <span class="ct-node-title-full">Neuroplasticity Is Not Hidden Superpower</span>
                   <span class="ct-node-summary">Neuroplasticity means active brain networks can change with experience, not that unused regions contain superhuman abilities.</span>
                 </span>
               </a>
@@ -107,7 +107,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Brain Scans</span>
-                  <span class="ct-node-title-full">What Brain Scans Do Not Show | 10 Brain</span>
+                  <span class="ct-node-title-full">What Brain Scans Do Not Show</span>
                   <span class="ct-node-summary">Brain scans highlight relative changes in activity, not vast silent regions waiting to be switched on.</span>
                 </span>
               </a>
@@ -127,7 +127,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Brain Damage</span>
-                  <span class="ct-node-title-full">Why Small Brain Injuries Can Matter | 10 Brain</span>
+                  <span class="ct-node-title-full">Why Small Brain Injuries Can Matter</span>
                   <span class="ct-node-summary">Injury and disease show that even small brain areas can matter for language, movement, memory, emotion, and perception.</span>
                 </span>
               </a>
@@ -147,7 +147,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Belief Appeal</span>
-                  <span class="ct-node-title-full">Why the 10 Percent Myth Feels True | 10 Brain</span>
+                  <span class="ct-node-title-full">Why the 10 Percent Myth Feels True</span>
                   <span class="ct-node-summary">The myth works because it turns ordinary learning and effort into a tempting story about hidden reserves waiting to be unlocked.</span>
                 </span>
               </a>
@@ -169,7 +169,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Algorithms</span>
-              <span class="ct-node-title-full">How Platforms Help Myths Travel Faster | Mythcraft</span>
+              <span class="ct-node-title-full">How Platforms Help Myths Travel Faster</span>
               <span class="ct-node-summary">Digital platforms can reward emotional, repeatable claims before careful correction has time to catch up.</span>
             </span>
           </a>
@@ -191,7 +191,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Feed Fixes</span>
-                  <span class="ct-node-title-full">Are Chronological Feeds Enough? | Algorithms</span>
+                  <span class="ct-node-title-full">Are Chronological Feeds Enough?</span>
                   <span class="ct-node-summary">Switching away from algorithmic feeds can change what users see, but it may not automatically reduce false belief or polarisation.</span>
                 </span>
               </a>
@@ -211,7 +211,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Outrage Boost</span>
-                  <span class="ct-node-title-full">Can Angry Replies Help Myths Spread? | Algorithms</span>
+                  <span class="ct-node-title-full">Can Angry Replies Help Myths Spread?</span>
                   <span class="ct-node-summary">Angry replies can make a false post look important to a ranking system even when many users are trying to reject it.</span>
                 </span>
               </a>
@@ -231,7 +231,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Metric Gap</span>
-                  <span class="ct-node-title-full">Do Clicks Show What People Want? | Algorithms</span>
+                  <span class="ct-node-title-full">Do Clicks Show What People Want?</span>
                   <span class="ct-node-summary">Clicks, likes and watch time can reward content people later judge to be unhealthy, misleading or simply not worth seeing.</span>
                 </span>
               </a>
@@ -251,7 +251,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Rumour Loops</span>
-                  <span class="ct-node-title-full">How Small Rumours Become Mass Myths | Algorithms</span>
+                  <span class="ct-node-title-full">How Small Rumours Become Mass Myths</span>
                   <span class="ct-node-summary">A rumour that performs well early can be pushed to wider audiences before verification has time to catch up.</span>
                 </span>
               </a>
@@ -271,7 +271,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Creator Rewards</span>
-                  <span class="ct-node-title-full">When Myths Become a Business Model | Algorithms</span>
+                  <span class="ct-node-title-full">When Myths Become a Business Model</span>
                   <span class="ct-node-summary">When attention can become followers, revenue or influence, creators have incentives to package myths in repeatable, engaging forms.</span>
                 </span>
               </a>
@@ -293,7 +293,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Analogies</span>
-              <span class="ct-node-title-full">When Helpful Analogies Teach the Wrong Lesson | Mythcraft</span>
+              <span class="ct-node-title-full">When Helpful Analogies Teach the Wrong Lesson</span>
               <span class="ct-node-summary">Analogies can make difficult ideas easier, but they can also leave learners with the wrong model.</span>
             </span>
           </a>
@@ -315,7 +315,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Historical Metaphors</span>
-                  <span class="ct-node-title-full">How 19th Century Analogies Skewed Scientific Thinking | Analogies</span>
+                  <span class="ct-node-title-full">How 19th Century Analogies Skewed Scientific Thinking</span>
                   <span class="ct-node-summary">Persistent analogies in historical scientific discourse shaped methods and interpretations, sometimes embedding misconceptions into the field.</span>
                 </span>
               </a>
@@ -335,7 +335,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Teaching Analogy Limits</span>
-                  <span class="ct-node-title-full">How Clear Framing Prevents Misleading Analogies in Education | Analogies</span>
+                  <span class="ct-node-title-full">How Clear Framing Prevents Misleading Analogies in Education</span>
                   <span class="ct-node-summary">Explicitly showing which features of an analogy map and which do not helps learners avoid misconceptions.</span>
                 </span>
               </a>
@@ -355,7 +355,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Plumbing Analogy</span>
-                  <span class="ct-node-title-full">How Plumbing Comparisons Misrepresent Blood Circulation | Analogies</span>
+                  <span class="ct-node-title-full">How Plumbing Comparisons Misrepresent Blood Circulation</span>
                   <span class="ct-node-summary">Using pipes as an analogy for blood flow can mislead learners about vessel flexibility and pressure dynamics.</span>
                 </span>
               </a>
@@ -375,7 +375,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Analogy Overextension</span>
-                  <span class="ct-node-title-full">When Analogies Lead to Incomplete Understanding | Analogies</span>
+                  <span class="ct-node-title-full">When Analogies Lead to Incomplete Understanding</span>
                   <span class="ct-node-summary">Learners may falsely generalize features of one system to another, building shallow understanding anchored on familiar comparisons.</span>
                 </span>
               </a>
@@ -395,7 +395,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Geologic Time</span>
-                  <span class="ct-node-title-full">Why Spatial Metaphors Mislead About Geological Timelines | Analogies</span>
+                  <span class="ct-node-title-full">Why Spatial Metaphors Mislead About Geological Timelines</span>
                   <span class="ct-node-summary">Compressing billions of years into a spatial diagram can lead learners to misjudge the timing of evolutionary events.</span>
                 </span>
               </a>
@@ -417,7 +417,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Anecdotes</span>
-              <span class="ct-node-title-full">When Personal Experience Becomes a Myth | Mythcraft</span>
+              <span class="ct-node-title-full">When Personal Experience Becomes a Myth</span>
               <span class="ct-node-summary">Many misconceptions begin when a real experience is stretched into a rule that evidence does not support.</span>
             </span>
           </a>
@@ -439,7 +439,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Timing trap</span>
-                  <span class="ct-node-title-full">Did it work, or did time pass? | Anecdotes</span>
+                  <span class="ct-node-title-full">Did it work, or did time pass?</span>
                   <span class="ct-node-summary">A real improvement after a remedy can still be coincidence unless the cause is tested against what would have happened anyway.</span>
                 </span>
               </a>
@@ -459,7 +459,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Story limits</span>
-                  <span class="ct-node-title-full">How to respect stories without overclaiming | Anecdotes</span>
+                  <span class="ct-node-title-full">How to respect stories without overclaiming</span>
                   <span class="ct-node-summary">Anecdotes are useful as signals, examples and questions, but they become misleading when used to settle general claims.</span>
                 </span>
               </a>
@@ -479,7 +479,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Safety reports</span>
-                  <span class="ct-node-title-full">What safety reports can and cannot prove | Anecdotes</span>
+                  <span class="ct-node-title-full">What safety reports can and cannot prove</span>
                   <span class="ct-node-summary">Safety reports can reveal warning signals, but raw reports cannot prove that a vaccine or drug caused an event.</span>
                 </span>
               </a>
@@ -499,7 +499,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Small samples</span>
-                  <span class="ct-node-title-full">When a handful of cases looks like proof | Anecdotes</span>
+                  <span class="ct-node-title-full">When a handful of cases looks like proof</span>
                   <span class="ct-node-summary">A few memorable examples can look like a rule when small samples are expected to represent the wider world too neatly.</span>
                 </span>
               </a>
@@ -519,7 +519,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Health stories</span>
-                  <span class="ct-node-title-full">Why one health story can overpower numbers | Anecdotes</span>
+                  <span class="ct-node-title-full">Why one health story can overpower numbers</span>
                   <span class="ct-node-summary">Health stories can feel more convincing than stronger evidence because fear, pain and hope make single cases easier to trust.</span>
                 </span>
               </a>
@@ -541,7 +541,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Backfire</span>
-              <span class="ct-node-title-full">Does Debunking Really Make Myths Stronger? | Mythcraft</span>
+              <span class="ct-node-title-full">Does Debunking Really Make Myths Stronger?</span>
               <span class="ct-node-summary">Clear corrections usually reduce false belief, even though badly designed debunking can still fail.</span>
             </span>
           </a>
@@ -563,7 +563,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Study Evidence</span>
-                  <span class="ct-node-title-full">Did Researchers Actually Find Backfire? | Backfire</span>
+                  <span class="ct-node-title-full">Did Researchers Actually Find Backfire?</span>
                   <span class="ct-node-summary">Large experiments and reviews suggest factual corrections usually improve accuracy and that true backfire is rare.</span>
                 </span>
               </a>
@@ -583,7 +583,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Naming Myths</span>
-                  <span class="ct-node-title-full">How Much Should a Debunk Repeat the Myth? | Backfire</span>
+                  <span class="ct-node-title-full">How Much Should a Debunk Repeat the Myth?</span>
                   <span class="ct-node-summary">Good debunking names the false claim clearly enough to correct it but keeps the true claim as the message people remember.</span>
                 </span>
               </a>
@@ -603,7 +603,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Political Corrections</span>
-                  <span class="ct-node-title-full">When Corrections Work But Minds Barely Move | Backfire</span>
+                  <span class="ct-node-title-full">When Corrections Work But Minds Barely Move</span>
                   <span class="ct-node-summary">Political corrections can improve factual accuracy while still leaving identity, trust and voting attitudes largely unchanged.</span>
                 </span>
               </a>
@@ -623,7 +623,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Distrust Risk</span>
-                  <span class="ct-node-title-full">When the Correction Becomes the Problem | Backfire</span>
+                  <span class="ct-node-title-full">When the Correction Becomes the Problem</span>
                   <span class="ct-node-summary">Corrections are most fragile when the audience sees the source as hostile, manipulative or poorly justified.</span>
                 </span>
               </a>
@@ -643,7 +643,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Correction Decay</span>
-                  <span class="ct-node-title-full">Why One Fact Check Is Often Not Enough | Backfire</span>
+                  <span class="ct-node-title-full">Why One Fact Check Is Often Not Enough</span>
                   <span class="ct-node-summary">A correction can be accurate at first but lose ground when the false story keeps returning through media, peers or elites.</span>
                 </span>
               </a>
@@ -665,7 +665,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Campaigns</span>
-              <span class="ct-node-title-full">When Falsehoods Are Spread on Purpose | Mythcraft</span>
+              <span class="ct-node-title-full">When Falsehoods Are Spread on Purpose</span>
               <span class="ct-node-summary">Deliberate deception may require platform, policy and institutional responses as well as individual fact-checking.</span>
             </span>
           </a>
@@ -687,7 +687,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Platform Rules</span>
-                  <span class="ct-node-title-full">Can Platforms Stop Manipulation, Not Debate? | Campaigns</span>
+                  <span class="ct-node-title-full">Can Platforms Stop Manipulation, Not Debate?</span>
                   <span class="ct-node-summary">Behaviour-based rules can reduce fake accounts, hidden ads and artificial amplification while leaving room for lawful disagreement.</span>
                 </span>
               </a>
@@ -707,7 +707,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Prebunking</span>
-                  <span class="ct-node-title-full">Learning the Trick Before the Lie | Campaigns</span>
+                  <span class="ct-node-title-full">Learning the Trick Before the Lie</span>
                   <span class="ct-node-summary">Prebunking prepares people to recognise emotional manipulation, scapegoating and false choices before a campaign reaches them.</span>
                 </span>
               </a>
@@ -727,7 +727,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Media Coverage</span>
-                  <span class="ct-node-title-full">Reporting Rumours Without Spreading Them | Campaigns</span>
+                  <span class="ct-node-title-full">Reporting Rumours Without Spreading Them</span>
                   <span class="ct-node-summary">Careful reporting can explain a rumour&#x27;s origin, uncertainty and amplification pattern without making the false claim more memorable.</span>
                 </span>
               </a>
@@ -747,7 +747,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">IRA Case</span>
-                  <span class="ct-node-title-full">The Case That Made Coordination Visible | Campaigns</span>
+                  <span class="ct-node-title-full">The Case That Made Coordination Visible</span>
                   <span class="ct-node-summary">The Russian Internet Research Agency showed how fake identities, targeted pages and existing social divisions can turn deception into mass influence.</span>
                 </span>
               </a>
@@ -767,7 +767,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Astroturfing</span>
-                  <span class="ct-node-title-full">When a Crowd Is Not a Crowd | Campaigns</span>
+                  <span class="ct-node-title-full">When a Crowd Is Not a Crowd</span>
                   <span class="ct-node-summary">Astroturfing makes organised persuasion look like ordinary public support, changing how rumours, protests and policy debates are judged.</span>
                 </span>
               </a>
@@ -789,7 +789,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Commercial Myths</span>
-              <span class="ct-node-title-full">When Myths Come in Professional Packaging | Mythcraft</span>
+              <span class="ct-node-title-full">When Myths Come in Professional Packaging</span>
               <span class="ct-node-summary">Myths gain authority when they are packaged as training, products or practical solutions for busy professionals.</span>
             </span>
           </a>
@@ -811,7 +811,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Learning styles</span>
-                  <span class="ct-node-title-full">Do learning styles products really help? | Commercial Myths</span>
+                  <span class="ct-node-title-full">Do learning styles products really help?</span>
                   <span class="ct-node-summary">Learning-style labels can feel useful, but the evidence does not support matching lessons to fixed sensory types.</span>
                 </span>
               </a>
@@ -831,7 +831,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Adoption paths</span>
-                  <span class="ct-node-title-full">How packaged myths enter school routines | Commercial Myths</span>
+                  <span class="ct-node-title-full">How packaged myths enter school routines</span>
                   <span class="ct-node-summary">Training days, consultancy networks and ready-made materials can help weak claims spread because they are easy to buy and use.</span>
                 </span>
               </a>
@@ -851,7 +851,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">“Evidence Based”</span>
-                  <span class="ct-node-title-full">When evidence based becomes a sales phrase | Commercial Myths</span>
+                  <span class="ct-node-title-full">When evidence based becomes a sales phrase</span>
                   <span class="ct-node-summary">A product is not proven just because it cites research on a broad principle such as feedback, motivation or practice.</span>
                 </span>
               </a>
@@ -871,7 +871,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Brain Gym</span>
-                  <span class="ct-node-title-full">When movement becomes a brain myth | Commercial Myths</span>
+                  <span class="ct-node-title-full">When movement becomes a brain myth</span>
                   <span class="ct-node-summary">Movement breaks may be sensible, but branded brain-integration claims need evidence that ordinary activity does not provide.</span>
                 </span>
               </a>
@@ -891,7 +891,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Brain based</span>
-                  <span class="ct-node-title-full">Why brain words make myths sound smarter | Commercial Myths</span>
+                  <span class="ct-node-title-full">Why brain words make myths sound smarter</span>
                   <span class="ct-node-summary">Words such as brain-based and neural can make a weak education claim sound scientific before it has been fairly tested.</span>
                 </span>
               </a>
@@ -913,7 +913,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Common Sense</span>
-              <span class="ct-node-title-full">When Common Sense Leads US Wrong | Mythcraft</span>
+              <span class="ct-node-title-full">When Common Sense Leads US Wrong</span>
               <span class="ct-node-summary">A claim can feel sensible because it simplifies experience, not because reliable sources support it.</span>
             </span>
           </a>
@@ -935,7 +935,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Accuracy prompts</span>
-                  <span class="ct-node-title-full">Can one prompt reduce false sharing? | Common Sense</span>
+                  <span class="ct-node-title-full">Can one prompt reduce false sharing?</span>
                   <span class="ct-node-summary">Small accuracy reminders can improve what people share by shifting attention from plausibility and identity toward verification.</span>
                 </span>
               </a>
@@ -955,7 +955,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Full moons</span>
-                  <span class="ct-node-title-full">Do full moons really change behavior? | Common Sense</span>
+                  <span class="ct-node-title-full">Do full moons really change behavior?</span>
                   <span class="ct-node-summary">Full-moon beliefs show how vivid memories can overpower fair comparison when ordinary nights are not counted.</span>
                 </span>
               </a>
@@ -975,7 +975,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Learning styles</span>
-                  <span class="ct-node-title-full">Do learning styles actually improve learning? | Common Sense</span>
+                  <span class="ct-node-title-full">Do learning styles actually improve learning?</span>
                   <span class="ct-node-summary">Learning preferences may feel personal, but the key claim fails when matched teaching does not reliably improve outcomes.</span>
                 </span>
               </a>
@@ -995,7 +995,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Prediction test</span>
-                  <span class="ct-node-title-full">What would we see if it were true? | Common Sense</span>
+                  <span class="ct-node-title-full">What would we see if it were true?</span>
                   <span class="ct-node-summary">A claim becomes stronger when it says what should happen, what should not happen, and what evidence would count against it.</span>
                 </span>
               </a>
@@ -1015,7 +1015,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Hindsight</span>
-                  <span class="ct-node-title-full">Why outcomes seem obvious after they happen | Common Sense</span>
+                  <span class="ct-node-title-full">Why outcomes seem obvious after they happen</span>
                   <span class="ct-node-summary">Hindsight bias lets people build convincing explanations after an outcome, even when the same logic could predict the opposite.</span>
                 </span>
               </a>
@@ -1037,7 +1037,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Concept Change</span>
-              <span class="ct-node-title-full">How Learners Replace Wrong Ideas | Mythcraft</span>
+              <span class="ct-node-title-full">How Learners Replace Wrong Ideas</span>
               <span class="ct-node-summary">Students often need help replacing a mistaken model, not just adding correct facts on top of it.</span>
             </span>
           </a>
@@ -1059,7 +1059,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Diagnostics</span>
-                  <span class="ct-node-title-full">The Questions That Reveal Misconceptions | Concept Change</span>
+                  <span class="ct-node-title-full">The Questions That Reveal Misconceptions</span>
                   <span class="ct-node-summary">Good diagnostic questions expose the model behind an answer, not just whether a student chose the right option.</span>
                 </span>
               </a>
@@ -1079,7 +1079,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Private Universe</span>
-                  <span class="ct-node-title-full">What A Private Universe Revealed | Concept Change</span>
+                  <span class="ct-node-title-full">What A Private Universe Revealed</span>
                   <span class="ct-node-summary">The seasons-and-moon-phase interviews show how confident learners can retain private explanations after years of instruction.</span>
                 </span>
               </a>
@@ -1099,7 +1099,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Conflict</span>
-                  <span class="ct-node-title-full">When Surprises Actually Change Thinking | Concept Change</span>
+                  <span class="ct-node-title-full">When Surprises Actually Change Thinking</span>
                   <span class="ct-node-summary">Surprising evidence helps only when students compare predictions, evidence, and a stronger replacement explanation.</span>
                 </span>
               </a>
@@ -1119,7 +1119,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Replacement</span>
-                  <span class="ct-node-title-full">Why Corrections Need Better Explanations | Concept Change</span>
+                  <span class="ct-node-title-full">Why Corrections Need Better Explanations</span>
                   <span class="ct-node-summary">Students need a better model they can use across examples, diagrams, predictions, and unfamiliar cases.</span>
                 </span>
               </a>
@@ -1139,7 +1139,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Everyday Models</span>
-                  <span class="ct-node-title-full">Why Wrong Science Ideas Feel Sensible | Concept Change</span>
+                  <span class="ct-node-title-full">Why Wrong Science Ideas Feel Sensible</span>
                   <span class="ct-node-summary">Students often keep wrong science ideas because the models still make everyday experiences feel explainable.</span>
                 </span>
               </a>
@@ -1161,7 +1161,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Debunking</span>
-              <span class="ct-node-title-full">The Three Parts of a Better Debunk | Mythcraft</span>
+              <span class="ct-node-title-full">The Three Parts of a Better Debunk</span>
               <span class="ct-node-summary">Good corrections state the truth, warn about the false claim and explain what actually accounts for the confusion.</span>
             </span>
           </a>
@@ -1183,7 +1183,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Health myths</span>
-                  <span class="ct-node-title-full">How public health corrections avoid repeating myths | Debunking</span>
+                  <span class="ct-node-title-full">How public health corrections avoid repeating myths</span>
                   <span class="ct-node-summary">Public health teams use truth-sandwich corrections to answer rumours without making the misinformation the main message.</span>
                 </span>
               </a>
@@ -1203,7 +1203,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">The trick</span>
-                  <span class="ct-node-title-full">Show the trick that made the myth plausible | Debunking</span>
+                  <span class="ct-node-title-full">Show the trick that made the myth plausible</span>
                   <span class="ct-node-summary">A strong correction shows the trick behind a claim, such as cherry-picking, false context, edited media, or source confusion.</span>
                 </span>
               </a>
@@ -1223,7 +1223,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Name it</span>
-                  <span class="ct-node-title-full">When should a correction repeat the myth? | Debunking</span>
+                  <span class="ct-node-title-full">When should a correction repeat the myth?</span>
                   <span class="ct-node-summary">A debunk should identify a myth only when readers need that label to understand the correction.</span>
                 </span>
               </a>
@@ -1243,7 +1243,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Replacement</span>
-                  <span class="ct-node-title-full">Why a better story beats a bare denial | Debunking</span>
+                  <span class="ct-node-title-full">Why a better story beats a bare denial</span>
                   <span class="ct-node-summary">People are more likely to drop a misconception when the correction gives them a clearer story to remember instead.</span>
                 </span>
               </a>
@@ -1263,7 +1263,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fact first</span>
-                  <span class="ct-node-title-full">Why corrections should lead with the fact | Debunking</span>
+                  <span class="ct-node-title-full">Why corrections should lead with the fact</span>
                   <span class="ct-node-summary">A correction headline works best when it gives the true answer before briefly naming the false claim it replaces.</span>
                 </span>
               </a>
@@ -1285,7 +1285,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Expert Trust</span>
-              <span class="ct-node-title-full">When Expert Trust Carries Bad Claims | Mythcraft</span>
+              <span class="ct-node-title-full">When Expert Trust Carries Bad Claims</span>
               <span class="ct-node-summary">Health beliefs can become durable when a trusted professional, institution or expert-sounding source appears to support them.</span>
             </span>
           </a>
@@ -1307,7 +1307,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">AI Doctors</span>
-                  <span class="ct-node-title-full">Can You Trust the Doctor on Screen? | Expert Trust</span>
+                  <span class="ct-node-title-full">Can You Trust the Doctor on Screen?</span>
                   <span class="ct-node-summary">AI-made doctor videos can attach fake medical authority to supplements, cures, and health claims at social media speed.</span>
                 </span>
               </a>
@@ -1327,7 +1327,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">MMR Case</span>
-                  <span class="ct-node-title-full">How the MMR Myth Borrowed Medical Authority | Expert Trust</span>
+                  <span class="ct-node-title-full">How the MMR Myth Borrowed Medical Authority</span>
                   <span class="ct-node-summary">The MMR-autism myth shows how a prestigious journal, a doctor, and media attention can give a false claim lasting public power.</span>
                 </span>
               </a>
@@ -1347,7 +1347,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">False Balance</span>
-                  <span class="ct-node-title-full">When One Expert Is Not Half the Debate | Expert Trust</span>
+                  <span class="ct-node-title-full">When One Expert Is Not Half the Debate</span>
                   <span class="ct-node-summary">A myth can look stronger than it is when one dissenting expert is presented as equal to a field&#x27;s wider judgement.</span>
                 </span>
               </a>
@@ -1367,7 +1367,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Surgisphere</span>
-                  <span class="ct-node-title-full">When Prestigious Journals Get It Wrong | Expert Trust</span>
+                  <span class="ct-node-title-full">When Prestigious Journals Get It Wrong</span>
                   <span class="ct-node-summary">The Surgisphere retractions show how respected journals can briefly amplify unreliable health claims before scrutiny catches up.</span>
                 </span>
               </a>
@@ -1387,7 +1387,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">One Doctor</span>
-                  <span class="ct-node-title-full">Why One Doctor Can Keep a Myth Alive | Expert Trust</span>
+                  <span class="ct-node-title-full">Why One Doctor Can Keep a Myth Alive</span>
                   <span class="ct-node-summary">A single credentialed voice can make a weak health claim feel credible long after journals, regulators, or evidence have moved on.</span>
                 </span>
               </a>
@@ -1409,7 +1409,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Fact Checks</span>
-              <span class="ct-node-title-full">Why Fact Checking Is Not Enough | Mythcraft</span>
+              <span class="ct-node-title-full">Why Fact Checking Is Not Enough</span>
               <span class="ct-node-summary">Fact-checking matters, but false claims are cheap to produce and costly to correct at scale.</span>
             </span>
           </a>
@@ -1431,7 +1431,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Prebunking</span>
-                  <span class="ct-node-title-full">Can Prebunking Stop Myths Earlier? | Fact Checks</span>
+                  <span class="ct-node-title-full">Can Prebunking Stop Myths Earlier?</span>
                   <span class="ct-node-summary">Prebunking prepares people to recognise manipulation tactics before a false claim reaches them, reducing dependence on later corrections.</span>
                 </span>
               </a>
@@ -1451,7 +1451,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Mutation</span>
-                  <span class="ct-node-title-full">How Myths Survive After Being Debunked | Fact Checks</span>
+                  <span class="ct-node-title-full">How Myths Survive After Being Debunked</span>
                   <span class="ct-node-summary">A corrected myth can survive by changing examples, wording, screenshots, or messengers while keeping the same underlying story.</span>
                 </span>
               </a>
@@ -1471,7 +1471,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Platforms</span>
-                  <span class="ct-node-title-full">When Platforms Reward Myths Over Accuracy | Fact Checks</span>
+                  <span class="ct-node-title-full">When Platforms Reward Myths Over Accuracy</span>
                   <span class="ct-node-summary">Ranking, recommendation, monetisation, and moderation choices can either amplify myths or make reliable context easier to find.</span>
                 </span>
               </a>
@@ -1491,7 +1491,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Better Story</span>
-                  <span class="ct-node-title-full">Why Debunking Needs a Replacement Story | Fact Checks</span>
+                  <span class="ct-node-title-full">Why Debunking Needs a Replacement Story</span>
                   <span class="ct-node-summary">Corrections are stronger when they do more than say what is false; they explain what really happened and why the myth seemed plausible.</span>
                 </span>
               </a>
@@ -1511,7 +1511,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Speed Gap</span>
-                  <span class="ct-node-title-full">Why Myths Move Faster Than Corrections | Fact Checks</span>
+                  <span class="ct-node-title-full">Why Myths Move Faster Than Corrections</span>
                   <span class="ct-node-summary">False claims can be produced and reshared faster than careful fact-checks can investigate, explain, and reach the same audience.</span>
                 </span>
               </a>
@@ -1533,7 +1533,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Falling Objects</span>
-              <span class="ct-node-title-full">Why Common Sense Gets Falling Objects Wrong | Mythcraft</span>
+              <span class="ct-node-title-full">Why Common Sense Gets Falling Objects Wrong</span>
               <span class="ct-node-summary">Some false beliefs last because everyday experience seems to confirm them until the hidden conditions are made clear.</span>
             </span>
           </a>
@@ -1555,7 +1555,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Galileo</span>
-                  <span class="ct-node-title-full">Did Galileo really prove it from a tower? | Falling Objects</span>
+                  <span class="ct-node-title-full">Did Galileo really prove it from a tower?</span>
                   <span class="ct-node-summary">Galileo&#x27;s real achievement was controlled measurement, not just a dramatic tower-drop legend.</span>
                 </span>
               </a>
@@ -1575,7 +1575,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Home Tests</span>
-                  <span class="ct-node-title-full">Try the falling object myth for yourself | Falling Objects</span>
+                  <span class="ct-node-title-full">Try the falling object myth for yourself</span>
                   <span class="ct-node-summary">Simple drop tests can show when mass matters less than air resistance, as long as the examples are chosen carefully.</span>
                 </span>
               </a>
@@ -1595,7 +1595,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Paper Shape</span>
-                  <span class="ct-node-title-full">Why crumpled paper beats flat paper | Falling Objects</span>
+                  <span class="ct-node-title-full">Why crumpled paper beats flat paper</span>
                   <span class="ct-node-summary">A flat sheet and a crumpled sheet reveal why shape can matter more than mass in everyday falling.</span>
                 </span>
               </a>
@@ -1615,7 +1615,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Terminal Speed</span>
-                  <span class="ct-node-title-full">Why falling objects stop speeding up | Falling Objects</span>
+                  <span class="ct-node-title-full">Why falling objects stop speeding up</span>
                   <span class="ct-node-summary">Terminal velocity explains why some objects stop accelerating in air even though gravity keeps pulling them downward.</span>
                 </span>
               </a>
@@ -1635,7 +1635,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Moon Drop</span>
-                  <span class="ct-node-title-full">Why the hammer and feather landed together | Falling Objects</span>
+                  <span class="ct-node-title-full">Why the hammer and feather landed together</span>
                   <span class="ct-node-summary">The Moon demonstration made the missing condition visible by removing almost all air resistance from the fall.</span>
                 </span>
               </a>
@@ -1657,7 +1657,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">False Balance</span>
-              <span class="ct-node-title-full">When Both Sides Framing Misleads Readers | Mythcraft</span>
+              <span class="ct-node-title-full">When Both Sides Framing Misleads Readers</span>
               <span class="ct-node-summary">Giving weak claims equal weight with strong evidence can make a misconception look like a live debate.</span>
             </span>
           </a>
@@ -1679,7 +1679,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Vaccine Coverage</span>
-                  <span class="ct-node-title-full">Can Balanced Reporting Make Vaccine Myths Stronger? | False Balance</span>
+                  <span class="ct-node-title-full">Can Balanced Reporting Make Vaccine Myths Stronger?</span>
                   <span class="ct-node-summary">Experiments found that balanced vaccine coverage could make readers think experts were more divided than they were.</span>
                 </span>
               </a>
@@ -1699,7 +1699,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Equal Airtime</span>
-                  <span class="ct-node-title-full">Does Equal Airtime Create False Certainty? | False Balance</span>
+                  <span class="ct-node-title-full">Does Equal Airtime Create False Certainty?</span>
                   <span class="ct-node-summary">Giving opposing voices the same visibility can make weak claims appear as credible as a much stronger evidence base.</span>
                 </span>
               </a>
@@ -1719,7 +1719,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Evidence Weighting</span>
-                  <span class="ct-node-title-full">What Does Fair Reporting Look Like Instead? | False Balance</span>
+                  <span class="ct-node-title-full">What Does Fair Reporting Look Like Instead?</span>
                   <span class="ct-node-summary">Weight-of-evidence approaches help audiences see where the strongest support lies without hiding disagreement.</span>
                 </span>
               </a>
@@ -1739,7 +1739,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Climate Debate</span>
-                  <span class="ct-node-title-full">Why Climate Science Looked More Divided Than It Was | False Balance</span>
+                  <span class="ct-node-title-full">Why Climate Science Looked More Divided Than It Was</span>
                   <span class="ct-node-summary">Climate reporting became a prominent example of how balanced formats can exaggerate scientific disagreement.</span>
                 </span>
               </a>
@@ -1759,7 +1759,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Due Impartiality</span>
-                  <span class="ct-node-title-full">Why Fairness Is Not Always Fifty Fifty | False Balance</span>
+                  <span class="ct-node-title-full">Why Fairness Is Not Always Fifty Fifty</span>
                   <span class="ct-node-summary">Editorial standards distinguish between representing relevant viewpoints and giving every viewpoint equal weight.</span>
                 </span>
               </a>
@@ -1781,7 +1781,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">False Info</span>
-              <span class="ct-node-title-full">Misinformation or Disinformation: Why Intent Matters | Mythcraft</span>
+              <span class="ct-node-title-full">Misinformation or Disinformation: Why Intent Matters</span>
               <span class="ct-node-summary">The difference between accidental falsehood and deliberate deception matters because each needs a different response.</span>
             </span>
           </a>
@@ -1803,7 +1803,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Flood tactics</span>
-                  <span class="ct-node-title-full">How deception campaigns flood the truth | False Info</span>
+                  <span class="ct-node-title-full">How deception campaigns flood the truth</span>
                   <span class="ct-node-summary">Organised deception can work by confusing and exhausting people, not just by making them believe one false claim.</span>
                 </span>
               </a>
@@ -1823,7 +1823,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Overcalling</span>
-                  <span class="ct-node-title-full">When disinformation is the wrong label | False Info</span>
+                  <span class="ct-node-title-full">When disinformation is the wrong label</span>
                   <span class="ct-node-summary">Calling a false claim disinformation requires evidence of deliberate deception, not just proof that the claim is wrong.</span>
                 </span>
               </a>
@@ -1843,7 +1843,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Better fixes</span>
-                  <span class="ct-node-title-full">Why corrections need a better story | False Info</span>
+                  <span class="ct-node-title-full">Why corrections need a better story</span>
                   <span class="ct-node-summary">Corrections are more persuasive when they explain what really happened instead of only saying a claim is false.</span>
                 </span>
               </a>
@@ -1863,7 +1863,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Intent test</span>
-                  <span class="ct-node-title-full">Why intent changes the right response | False Info</span>
+                  <span class="ct-node-title-full">Why intent changes the right response</span>
                   <span class="ct-node-summary">The same false claim can need a correction, an investigation, or both, depending on whether error or deception is driving it.</span>
                 </span>
               </a>
@@ -1883,7 +1883,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Platform risk</span>
-                  <span class="ct-node-title-full">Why platforms look beyond single posts | False Info</span>
+                  <span class="ct-node-title-full">Why platforms look beyond single posts</span>
                   <span class="ct-node-summary">Modern platform rules increasingly target networks, incentives, algorithms, and transparency gaps rather than single false posts alone.</span>
                 </span>
               </a>
@@ -1905,7 +1905,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Familiarity</span>
-              <span class="ct-node-title-full">Why Repetition Makes Claims Feel True | Mythcraft</span>
+              <span class="ct-node-title-full">Why Repetition Makes Claims Feel True</span>
               <span class="ct-node-summary">Repeated claims can feel true because familiarity makes them easier to process, even when the evidence is weak.</span>
             </span>
           </a>
@@ -1927,7 +1927,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Better Corrections</span>
-                  <span class="ct-node-title-full">How to correct a myth without boosting it | Familiarity</span>
+                  <span class="ct-node-title-full">How to correct a myth without boosting it</span>
                   <span class="ct-node-summary">Good corrections lead with the truth, identify the trap carefully, and give readers a clearer explanation to remember.</span>
                 </span>
               </a>
@@ -1947,7 +1947,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fluency</span>
-                  <span class="ct-node-title-full">When easy thinking feels like evidence | Familiarity</span>
+                  <span class="ct-node-title-full">When easy thinking feels like evidence</span>
                   <span class="ct-node-summary">Processing fluency explains why claims that feel easy to read, recall, or recognise can be mistaken for claims that are true.</span>
                 </span>
               </a>
@@ -1967,7 +1967,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Climate Claims</span>
-                  <span class="ct-node-title-full">When repeated climate claims feel established | Familiarity</span>
+                  <span class="ct-node-title-full">When repeated climate claims feel established</span>
                   <span class="ct-node-summary">Climate misinformation shows how repetition can raise truth ratings for familiar claims without changing someone&#x27;s whole worldview.</span>
                 </span>
               </a>
@@ -1987,7 +1987,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">After Correction</span>
-                  <span class="ct-node-title-full">Why corrected myths can still sound true | Familiarity</span>
+                  <span class="ct-node-title-full">Why corrected myths can still sound true</span>
                   <span class="ct-node-summary">A false claim can keep its familiar ring after correction unless the accurate replacement becomes easier to remember.</span>
                 </span>
               </a>
@@ -2007,7 +2007,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Headlines</span>
-                  <span class="ct-node-title-full">Why one headline can feel familiar enough | Familiarity</span>
+                  <span class="ct-node-title-full">Why one headline can feel familiar enough</span>
                   <span class="ct-node-summary">Even a single prior encounter with a headline can make it feel more accurate later, especially when people read in passing.</span>
                 </span>
               </a>
@@ -2029,7 +2029,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Health Claims</span>
-              <span class="ct-node-title-full">Why Helpful Health Advice Can Be Wrong | Mythcraft</span>
+              <span class="ct-node-title-full">Why Helpful Health Advice Can Be Wrong</span>
               <span class="ct-node-summary">Health misinformation often spreads because people believe they are helping friends or family avoid harm.</span>
             </span>
           </a>
@@ -2051,7 +2051,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Kind Corrections</span>
-                  <span class="ct-node-title-full">How to Correct Health Myths Kindly | Health Claims</span>
+                  <span class="ct-node-title-full">How to Correct Health Myths Kindly</span>
                   <span class="ct-node-summary">Correcting a health myth from someone close works better when the response protects the relationship as well as the facts.</span>
                 </span>
               </a>
@@ -2071,7 +2071,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cancer Stories</span>
-                  <span class="ct-node-title-full">When Cancer Cure Stories Leave Out Treatment | Health Claims</span>
+                  <span class="ct-node-title-full">When Cancer Cure Stories Leave Out Treatment</span>
                   <span class="ct-node-summary">Personal cancer recovery stories can offer hope while hiding treatment details that make a cure claim unsafe.</span>
                 </span>
               </a>
@@ -2091,7 +2091,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Natural Remedies</span>
-                  <span class="ct-node-title-full">When Natural Sounds Safer Than Evidence | Health Claims</span>
+                  <span class="ct-node-title-full">When Natural Sounds Safer Than Evidence</span>
                   <span class="ct-node-summary">Natural remedy claims can sound gentle and harmless, even when they create false confidence or delay useful care.</span>
                 </span>
               </a>
@@ -2111,7 +2111,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Urgent Warnings</span>
-                  <span class="ct-node-title-full">Why Urgent Health Warnings Spread So Fast | Health Claims</span>
+                  <span class="ct-node-title-full">Why Urgent Health Warnings Spread So Fast</span>
                   <span class="ct-node-summary">Urgent health warnings can feel like protection, but speed often beats verification when fear and care are mixed together.</span>
                 </span>
               </a>
@@ -2131,7 +2131,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Vaccine Fears</span>
-                  <span class="ct-node-title-full">Why Vaccine Myths Feel Protective to Parents | Health Claims</span>
+                  <span class="ct-node-title-full">Why Vaccine Myths Feel Protective to Parents</span>
                   <span class="ct-node-summary">Vaccine myths can become persuasive when refusal is framed as a loving parent&#x27;s safest choice.</span>
                 </span>
               </a>
@@ -2153,7 +2153,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Identity</span>
-              <span class="ct-node-title-full">Why Trusted People Make Myths Stick | Mythcraft</span>
+              <span class="ct-node-title-full">Why Trusted People Make Myths Stick</span>
               <span class="ct-node-summary">People often judge claims through trust, community and identity as much as through evidence alone.</span>
             </span>
           </a>
@@ -2175,7 +2175,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Trusted Fixes</span>
-                  <span class="ct-node-title-full">How corrections avoid sounding like attacks | Identity</span>
+                  <span class="ct-node-title-full">How corrections avoid sounding like attacks</span>
                   <span class="ct-node-summary">Corrections work better when they protect the listener&#x27;s dignity while separating a trusted person from a false claim.</span>
                 </span>
               </a>
@@ -2195,7 +2195,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Group Loyalty</span>
-                  <span class="ct-node-title-full">When a myth becomes a loyalty test | Identity</span>
+                  <span class="ct-node-title-full">When a myth becomes a loyalty test</span>
                   <span class="ct-node-summary">Some myths persist because accepting or rejecting them signals loyalty, courage, compassion, scepticism, or belonging.</span>
                 </span>
               </a>
@@ -2215,7 +2215,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Expert Limits</span>
-                  <span class="ct-node-title-full">When experts are trusted for the wrong thing | Identity</span>
+                  <span class="ct-node-title-full">When experts are trusted for the wrong thing</span>
                   <span class="ct-node-summary">A credible professional can accidentally lend authority to a false claim when they speak confidently beyond what they actually know.</span>
                 </span>
               </a>
@@ -2235,7 +2235,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Influencers</span>
-                  <span class="ct-node-title-full">Why familiar influencers can sound reliable | Identity</span>
+                  <span class="ct-node-title-full">Why familiar influencers can sound reliable</span>
                   <span class="ct-node-summary">Online creators can feel personally trustworthy even when their fact-checking routines are weak or invisible to followers.</span>
                 </span>
               </a>
@@ -2255,7 +2255,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Family Advice</span>
-                  <span class="ct-node-title-full">Why family health myths feel so convincing | Identity</span>
+                  <span class="ct-node-title-full">Why family health myths feel so convincing</span>
                   <span class="ct-node-summary">Health myths can feel safest when they come from parents or relatives who shaped a person&#x27;s earliest ideas about care and risk.</span>
                 </span>
               </a>
@@ -2277,7 +2277,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Influencers</span>
-              <span class="ct-node-title-full">When Authority Shortcuts Spread Myths | Mythcraft</span>
+              <span class="ct-node-title-full">When Authority Shortcuts Spread Myths</span>
               <span class="ct-node-summary">People often use a familiar person&#x27;s confidence as a shortcut for credibility, especially online.</span>
             </span>
           </a>
@@ -2299,7 +2299,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Viral Proof</span>
-                  <span class="ct-node-title-full">When Likes Make Myths Look True | Influencers</span>
+                  <span class="ct-node-title-full">When Likes Make Myths Look True</span>
                   <span class="ct-node-summary">High engagement can make a weak claim feel safer to trust before viewers have checked what the post actually proves.</span>
                 </span>
               </a>
@@ -2319,7 +2319,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Lane Drift</span>
-                  <span class="ct-node-title-full">When Trusted Influencers Leave Their Lane | Influencers</span>
+                  <span class="ct-node-title-full">When Trusted Influencers Leave Their Lane</span>
                   <span class="ct-node-summary">Audiences can mistake trust in a creator&#x27;s lifestyle, politics, or fitness content for expertise on unrelated evidence-heavy claims.</span>
                 </span>
               </a>
@@ -2339,7 +2339,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Local Voices</span>
-                  <span class="ct-node-title-full">Who Can Correct Influencer Myths? | Influencers</span>
+                  <span class="ct-node-title-full">Who Can Correct Influencer Myths?</span>
                   <span class="ct-node-summary">Corrections work better when accurate information comes from people the audience already recognizes and trusts.</span>
                 </span>
               </a>
@@ -2359,7 +2359,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Check First</span>
-                  <span class="ct-node-title-full">Why Creators Share Before They Check | Influencers</span>
+                  <span class="ct-node-title-full">Why Creators Share Before They Check</span>
                   <span class="ct-node-summary">Many creators share information without systematic verification, even when their audience treats the post like researched advice.</span>
                 </span>
               </a>
@@ -2379,7 +2379,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Felt Trust</span>
-                  <span class="ct-node-title-full">Why Influencer Health Advice Feels Personal | Influencers</span>
+                  <span class="ct-node-title-full">Why Influencer Health Advice Feels Personal</span>
                   <span class="ct-node-summary">A familiar creator can make health advice feel personal and caring even when the claim needs medical expertise.</span>
                 </span>
               </a>
@@ -2401,7 +2401,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Key Terms</span>
-              <span class="ct-node-title-full">Myth or Misconception: What Is the Difference? | Mythcraft</span>
+              <span class="ct-node-title-full">Myth or Misconception: What Is the Difference?</span>
               <span class="ct-node-summary">Myths are widely repeated false stories, while misconceptions are mistaken understandings that may be sincere.</span>
             </span>
           </a>
@@ -2423,7 +2423,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Better Corrections</span>
-                  <span class="ct-node-title-full">Correct the Story or Fix the Model? | Key Terms</span>
+                  <span class="ct-node-title-full">Correct the Story or Fix the Model?</span>
                   <span class="ct-node-summary">Myths often need public reframing, while misconceptions usually need a better explanation that fills the gap left behind.</span>
                 </span>
               </a>
@@ -2443,7 +2443,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Cultural Myths</span>
-                  <span class="ct-node-title-full">How False Claims Become Shared Stories | Key Terms</span>
+                  <span class="ct-node-title-full">How False Claims Become Shared Stories</span>
                   <span class="ct-node-summary">Some false claims survive because they become familiar stories that people repeat before they ever check the evidence.</span>
                 </span>
               </a>
@@ -2463,7 +2463,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Tell Them Apart</span>
-                  <span class="ct-node-title-full">Is It a Myth or a Misconception? | Key Terms</span>
+                  <span class="ct-node-title-full">Is It a Myth or a Misconception?</span>
                   <span class="ct-node-summary">A practical test asks whether a belief mainly spreads through repetition or mainly rests on a mistaken explanation.</span>
                 </span>
               </a>
@@ -2483,7 +2483,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Myth to Model</span>
-                  <span class="ct-node-title-full">When Repeated Claims Shape Understanding | Key Terms</span>
+                  <span class="ct-node-title-full">When Repeated Claims Shape Understanding</span>
                   <span class="ct-node-summary">A repeated claim can become the starting point for a larger mistaken model about health, intelligence, history or science.</span>
                 </span>
               </a>
@@ -2503,7 +2503,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Mistaken Models</span>
-                  <span class="ct-node-title-full">Why Wrong Explanations Can Feel Right | Key Terms</span>
+                  <span class="ct-node-title-full">Why Wrong Explanations Can Feel Right</span>
                   <span class="ct-node-summary">A misconception often persists because it gives people a simple working explanation that fits what they think they see.</span>
                 </span>
               </a>
@@ -2525,7 +2525,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Learning Styles</span>
-              <span class="ct-node-title-full">Do Learning Styles Really Improve Learning? | Mythcraft</span>
+              <span class="ct-node-title-full">Do Learning Styles Really Improve Learning?</span>
               <span class="ct-node-summary">Students may have preferences, but matching teaching to fixed learning styles is not supported as a reliable learning strategy.</span>
             </span>
           </a>
@@ -2547,7 +2547,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Labels risk</span>
-                  <span class="ct-node-title-full">Can a helpful label hold students back? | Learning Styles</span>
+                  <span class="ct-node-title-full">Can a helpful label hold students back?</span>
                   <span class="ct-node-summary">A label meant to support a child can quietly shape what adults expect them to enjoy, attempt or succeed at in school.</span>
                 </span>
               </a>
@@ -2567,7 +2567,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Content first</span>
-                  <span class="ct-node-title-full">Let the content choose the mode | Learning Styles</span>
+                  <span class="ct-node-title-full">Let the content choose the mode</span>
                   <span class="ct-node-summary">Diagrams, discussion, sound, movement and practice can all help, but the best choice usually depends on the subject matter and learning goal.</span>
                 </span>
               </a>
@@ -2587,7 +2587,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Survey trap</span>
-                  <span class="ct-node-title-full">The planning time learning styles steal | Learning Styles</span>
+                  <span class="ct-node-title-full">The planning time learning styles steal</span>
                   <span class="ct-node-summary">Style inventories can make personalisation look precise while pulling attention away from explanations, practice and feedback.</span>
                 </span>
               </a>
@@ -2607,7 +2607,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Self labels</span>
-                  <span class="ct-node-title-full">When students believe they learn only one way | Learning Styles</span>
+                  <span class="ct-node-title-full">When students believe they learn only one way</span>
                   <span class="ct-node-summary">Students may avoid useful study strategies when a style label becomes part of how they explain success and difficulty.</span>
                 </span>
               </a>
@@ -2627,7 +2627,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Matching claim</span>
-                  <span class="ct-node-title-full">Why the matching claim falls apart | Learning Styles</span>
+                  <span class="ct-node-title-full">Why the matching claim falls apart</span>
                   <span class="ct-node-summary">The key claim is not that students differ, but that matching instruction to a style improves learning, and that claim has not held up.</span>
                 </span>
               </a>
@@ -2649,7 +2649,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Left Brain</span>
-              <span class="ct-node-title-full">Are People Really Left Brain or Right Brain? | Mythcraft</span>
+              <span class="ct-node-title-full">Are People Really Left Brain or Right Brain?</span>
               <span class="ct-node-summary">Left-brain and right-brain learner labels oversimplify brain function and can distract from better teaching choices.</span>
             </span>
           </a>
@@ -2671,7 +2671,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Imaging study</span>
-                  <span class="ct-node-title-full">Did brain scans find left brained people? | Left Brain</span>
+                  <span class="ct-node-title-full">Did brain scans find left brained people?</span>
                   <span class="ct-node-summary">A large imaging study found local left and right brain patterns, not a global split between left-brained and right-brained people.</span>
                 </span>
               </a>
@@ -2691,7 +2691,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Creativity myth</span>
-                  <span class="ct-node-title-full">Is creativity really a right brain skill? | Left Brain</span>
+                  <span class="ct-node-title-full">Is creativity really a right brain skill?</span>
                   <span class="ct-node-summary">Creativity depends on integrated thinking across both hemispheres, not a special right-brain mode teachers can switch on.</span>
                 </span>
               </a>
@@ -2711,7 +2711,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Lateralisation</span>
-                  <span class="ct-node-title-full">What brain lateralisation really means | Left Brain</span>
+                  <span class="ct-node-title-full">What brain lateralisation really means</span>
                   <span class="ct-node-summary">Brain functions can be partly lateralised, but that does not mean people learn through one dominant hemisphere.</span>
                 </span>
               </a>
@@ -2731,7 +2731,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Learner labels</span>
-                  <span class="ct-node-title-full">When brain labels shrink expectations | Left Brain</span>
+                  <span class="ct-node-title-full">When brain labels shrink expectations</span>
                   <span class="ct-node-summary">Calling a child left-brained or right-brained can turn a temporary preference into a false limit on what they are expected to learn.</span>
                 </span>
               </a>
@@ -2751,7 +2751,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Style matching</span>
-                  <span class="ct-node-title-full">Why matching styles is not enough | Left Brain</span>
+                  <span class="ct-node-title-full">Why matching styles is not enough</span>
                   <span class="ct-node-summary">Teaching works best when methods fit the material and task, not when they are matched to a claimed brain style.</span>
                 </span>
               </a>
@@ -2773,7 +2773,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Media Literacy</span>
-              <span class="ct-node-title-full">How Media Literacy Prevents Myths | Mythcraft</span>
+              <span class="ct-node-title-full">How Media Literacy Prevents Myths</span>
               <span class="ct-node-summary">Media literacy helps people ask better questions before a false claim becomes familiar and emotionally anchored.</span>
             </span>
           </a>
@@ -2795,7 +2795,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">SIFT method</span>
-                  <span class="ct-node-title-full">A simple checklist for suspicious claims | Media Literacy</span>
+                  <span class="ct-node-title-full">A simple checklist for suspicious claims</span>
                   <span class="ct-node-summary">The SIFT method turns media literacy into a simple routine: stop, investigate, find better coverage, and trace the claim.</span>
                 </span>
               </a>
@@ -2815,7 +2815,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Prebunking</span>
-                  <span class="ct-node-title-full">Can warning people before myths work better? | Media Literacy</span>
+                  <span class="ct-node-title-full">Can warning people before myths work better?</span>
                   <span class="ct-node-summary">Prebunking teaches people to recognize familiar misinformation tactics before a specific false claim becomes memorable.</span>
                 </span>
               </a>
@@ -2835,7 +2835,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Emotional Headlines</span>
-                  <span class="ct-node-title-full">When outrage should make you pause | Media Literacy</span>
+                  <span class="ct-node-title-full">When outrage should make you pause</span>
                   <span class="ct-node-summary">Strong emotion is not proof of falsehood, but outrage, fear, and simple villains are signals to slow down before believing or sharing.</span>
                 </span>
               </a>
@@ -2855,7 +2855,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Lateral reading</span>
-                  <span class="ct-node-title-full">Why leaving the page can reveal more | Media Literacy</span>
+                  <span class="ct-node-title-full">Why leaving the page can reveal more</span>
                   <span class="ct-node-summary">Lateral reading helps readers check who is behind a claim before polished design or confident wording makes it feel credible.</span>
                 </span>
               </a>
@@ -2875,7 +2875,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Practice limits</span>
-                  <span class="ct-node-title-full">Why one lesson is rarely enough | Media Literacy</span>
+                  <span class="ct-node-title-full">Why one lesson is rarely enough</span>
                   <span class="ct-node-summary">Media literacy can be taught, but one-off lessons are weaker than repeated practice across changing platforms and formats.</span>
                 </span>
               </a>
@@ -2897,7 +2897,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Memory</span>
-              <span class="ct-node-title-full">Why Memory Is Not a Video Recording | Mythcraft</span>
+              <span class="ct-node-title-full">Why Memory Is Not a Video Recording</span>
               <span class="ct-node-summary">Memory is reconstructive, so confident recall is not the same as a perfect recording of events.</span>
             </span>
           </a>
@@ -2919,7 +2919,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Leading Questions</span>
-                  <span class="ct-node-title-full">Can a Question Change a Memory? | Memory</span>
+                  <span class="ct-node-title-full">Can a Question Change a Memory?</span>
                   <span class="ct-node-summary">Small wording changes after an event can steer what witnesses later remember without making them dishonest.</span>
                 </span>
               </a>
@@ -2939,7 +2939,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fair Lineups</span>
-                  <span class="ct-node-title-full">What Makes an Eyewitness Lineup Fair? | Memory</span>
+                  <span class="ct-node-title-full">What Makes an Eyewitness Lineup Fair?</span>
                   <span class="ct-node-summary">Lineup design can reduce suggestion by limiting cues that point witnesses toward a suspect before memory is tested.</span>
                 </span>
               </a>
@@ -2959,7 +2959,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Confidence</span>
-                  <span class="ct-node-title-full">When Should We Trust Witness Confidence? | Memory</span>
+                  <span class="ct-node-title-full">When Should We Trust Witness Confidence?</span>
                   <span class="ct-node-summary">Confidence can matter most when recorded early under fair conditions, but later confidence may reflect contamination.</span>
                 </span>
               </a>
@@ -2979,7 +2979,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Retelling</span>
-                  <span class="ct-node-title-full">Why Repeated Stories Feel More True | Memory</span>
+                  <span class="ct-node-title-full">Why Repeated Stories Feel More True</span>
                   <span class="ct-node-summary">Retelling a story can make it feel clearer and more convincing even when the remembered details have shifted.</span>
                 </span>
               </a>
@@ -2999,7 +2999,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Flashbulb Memory</span>
-                  <span class="ct-node-title-full">Why Vivid Memories Can Still Be Wrong | Memory</span>
+                  <span class="ct-node-title-full">Why Vivid Memories Can Still Be Wrong</span>
                   <span class="ct-node-summary">Vivid memories of shocking events can feel photographic while still changing in important details over time.</span>
                 </span>
               </a>
@@ -3021,7 +3021,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Mental Models</span>
-              <span class="ct-node-title-full">Why Wrong Ideas Can Feel Coherent | Mythcraft</span>
+              <span class="ct-node-title-full">Why Wrong Ideas Can Feel Coherent</span>
               <span class="ct-node-summary">Misconceptions can feel stable because they fit into a wider model of how the world works.</span>
             </span>
           </a>
@@ -3043,7 +3043,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Better Story</span>
-                  <span class="ct-node-title-full">How Better Stories Beat Bad Myths | Mental Models</span>
+                  <span class="ct-node-title-full">How Better Stories Beat Bad Myths</span>
                   <span class="ct-node-summary">Effective debunking gives people a clearer alternative explanation instead of leaving the old myth as the only complete story.</span>
                 </span>
               </a>
@@ -3063,7 +3063,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Contradictions</span>
-                  <span class="ct-node-title-full">When Contradictions Make Myths Stronger | Mental Models</span>
+                  <span class="ct-node-title-full">When Contradictions Make Myths Stronger</span>
                   <span class="ct-node-summary">Some conspiracy models survive correction by treating official denials, failed predictions, and expert consensus as part of the plot.</span>
                 </span>
               </a>
@@ -3083,7 +3083,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Earth Models</span>
-                  <span class="ct-node-title-full">When Wrong Earth Models Make Sense | Mental Models</span>
+                  <span class="ct-node-title-full">When Wrong Earth Models Make Sense</span>
                   <span class="ct-node-summary">Children&#x27;s Earth models show how wrong ideas can be creative attempts to reconcile teaching with everyday experience.</span>
                 </span>
               </a>
@@ -3103,7 +3103,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Retracted Causes</span>
-                  <span class="ct-node-title-full">Why False Causes Stick After Correction | Mental Models</span>
+                  <span class="ct-node-title-full">Why False Causes Stick After Correction</span>
                   <span class="ct-node-summary">A retracted detail can keep guiding judgment when it still fills the missing cause in a person&#x27;s story of what happened.</span>
                 </span>
               </a>
@@ -3123,7 +3123,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Natural Myths</span>
-                  <span class="ct-node-title-full">Why Natural Health Myths Feel Coherent | Mental Models</span>
+                  <span class="ct-node-title-full">Why Natural Health Myths Feel Coherent</span>
                   <span class="ct-node-summary">Natural health myths feel convincing when safety, distrust, and personal testimony all reinforce the same simple model.</span>
                 </span>
               </a>
@@ -3145,7 +3145,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Neuromyths</span>
-              <span class="ct-node-title-full">Why Brain Myths Spread in Schools | Mythcraft</span>
+              <span class="ct-node-title-full">Why Brain Myths Spread in Schools</span>
               <span class="ct-node-summary">Brain-based claims can look scientific while oversimplifying what neuroscience actually says about learning.</span>
             </span>
           </a>
@@ -3167,7 +3167,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Critical periods</span>
-                  <span class="ct-node-title-full">Are children ever too late to learn? | Neuromyths</span>
+                  <span class="ct-node-title-full">Are children ever too late to learn?</span>
                   <span class="ct-node-summary">Critical period myths can make learning difficulties seem time-limited when development is usually more flexible and gradual.</span>
                 </span>
               </a>
@@ -3187,7 +3187,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Learning styles</span>
-                  <span class="ct-node-title-full">Do learning styles really improve lessons? | Neuromyths</span>
+                  <span class="ct-node-title-full">Do learning styles really improve lessons?</span>
                   <span class="ct-node-summary">Learning styles feel respectful of pupil differences, but matching lessons to fixed sensory types has not shown reliable learning gains.</span>
                 </span>
               </a>
@@ -3207,7 +3207,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Training rubrics</span>
-                  <span class="ct-node-title-full">How teacher training can preserve myths | Neuromyths</span>
+                  <span class="ct-node-title-full">How teacher training can preserve myths</span>
                   <span class="ct-node-summary">Neuromyths spread when training templates and observation rubrics treat weak brain claims as professional standards.</span>
                 </span>
               </a>
@@ -3227,7 +3227,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Brain Gym</span>
-                  <span class="ct-node-title-full">When movement breaks become brain myths | Neuromyths</span>
+                  <span class="ct-node-title-full">When movement breaks become brain myths</span>
                   <span class="ct-node-summary">Movement breaks can help classrooms, but Brain Gym-style claims about hemispheric integration go beyond the evidence.</span>
                 </span>
               </a>
@@ -3247,7 +3247,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Brain labels</span>
-                  <span class="ct-node-title-full">Why left brain labels mislead teachers | Neuromyths</span>
+                  <span class="ct-node-title-full">Why left brain labels mislead teachers</span>
                   <span class="ct-node-summary">Left-brain and right-brain labels turn real hemispheric differences into misleading learner types that can narrow expectations.</span>
                 </span>
               </a>
@@ -3269,7 +3269,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Old Stories</span>
-              <span class="ct-node-title-full">Why Corrected Myths Still Linger | Mythcraft</span>
+              <span class="ct-node-title-full">Why Corrected Myths Still Linger</span>
               <span class="ct-node-summary">A myth can keep shaping judgement after correction when the debunking removes a story without replacing it.</span>
             </span>
           </a>
@@ -3291,7 +3291,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Memory Gap</span>
-                  <span class="ct-node-title-full">Knowing it is false is not enough | Old Stories</span>
+                  <span class="ct-node-title-full">Knowing it is false is not enough</span>
                   <span class="ct-node-summary">People may recall that a claim was false while still using it to judge motives, risks or blame.</span>
                 </span>
               </a>
@@ -3311,7 +3311,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Replacement</span>
-                  <span class="ct-node-title-full">The missing piece in stronger corrections | Old Stories</span>
+                  <span class="ct-node-title-full">The missing piece in stronger corrections</span>
                   <span class="ct-node-summary">Corrections work better when they give readers a simple alternative account to use instead of the myth.</span>
                 </span>
               </a>
@@ -3331,7 +3331,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Myth vs Fact</span>
-                  <span class="ct-node-title-full">When myth versus fact pages fall short | Old Stories</span>
+                  <span class="ct-node-title-full">When myth versus fact pages fall short</span>
                   <span class="ct-node-summary">Myth-versus-fact formats can fail when the false claim remains more vivid and complete than the correction.</span>
                 </span>
               </a>
@@ -3351,7 +3351,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Old Causes</span>
-                  <span class="ct-node-title-full">Why corrected causes still feel useful | Old Stories</span>
+                  <span class="ct-node-title-full">Why corrected causes still feel useful</span>
                   <span class="ct-node-summary">A false cause can keep guiding people&#x27;s explanations even after they remember that it was corrected.</span>
                 </span>
               </a>
@@ -3371,7 +3371,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fire Study</span>
-                  <span class="ct-node-title-full">Why the warehouse fire myth lingered | Old Stories</span>
+                  <span class="ct-node-title-full">Why the warehouse fire myth lingered</span>
                   <span class="ct-node-summary">The classic warehouse fire experiment shows how a corrected detail can still explain explosions, fumes and severity.</span>
                 </span>
               </a>
@@ -3393,7 +3393,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Platform Design</span>
-              <span class="ct-node-title-full">Can Platform Design Slow Myths Down? | Mythcraft</span>
+              <span class="ct-node-title-full">Can Platform Design Slow Myths Down?</span>
               <span class="ct-node-summary">Design decisions around friction, labels, recommendations and sharing can change how far myths travel.</span>
             </span>
           </a>
@@ -3415,7 +3415,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sharing Prompts</span>
-                  <span class="ct-node-title-full">Can a Pause Stop a False Claim? | Platform Design</span>
+                  <span class="ct-node-title-full">Can a Pause Stop a False Claim?</span>
                   <span class="ct-node-summary">A small pause before reposting can reduce myth spread by shifting users from impulse to attention at the moment a claim travels.</span>
                 </span>
               </a>
@@ -3435,7 +3435,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Community Notes</span>
-                  <span class="ct-node-title-full">Can Crowds Catch Viral Misinformation Fast Enough? | Platform Design</span>
+                  <span class="ct-node-title-full">Can Crowds Catch Viral Misinformation Fast Enough?</span>
                   <span class="ct-node-summary">Community notes can add trusted context to misleading posts, but fast-moving myths may outrun the rating process that makes notes visible.</span>
                 </span>
               </a>
@@ -3455,7 +3455,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Algorithms</span>
-                  <span class="ct-node-title-full">The Hidden Engine Behind Myth Spread | Platform Design</span>
+                  <span class="ct-node-title-full">The Hidden Engine Behind Myth Spread</span>
                   <span class="ct-node-summary">Recommendation systems can amplify myths when they optimize for engagement, or limit them when ranking signals value reliability and harm reduction.</span>
                 </span>
               </a>
@@ -3475,7 +3475,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Warning Labels</span>
-                  <span class="ct-node-title-full">When Do Misinformation Labels Actually Work? | Platform Design</span>
+                  <span class="ct-node-title-full">When Do Misinformation Labels Actually Work?</span>
                   <span class="ct-node-summary">Warning labels can lower belief in false claims, but vague or distrusted labels may fail or even harden group resistance.</span>
                 </span>
               </a>
@@ -3495,7 +3495,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Accuracy Nudges</span>
-                  <span class="ct-node-title-full">Why Asking About Accuracy Changes Sharing | Platform Design</span>
+                  <span class="ct-node-title-full">Why Asking About Accuracy Changes Sharing</span>
                   <span class="ct-node-summary">Accuracy prompts work by reminding users to consider truth, not just emotion, identity or social approval, before passing news along.</span>
                 </span>
               </a>
@@ -3517,7 +3517,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Politics</span>
-              <span class="ct-node-title-full">Why Political Myths Resist Correction | Mythcraft</span>
+              <span class="ct-node-title-full">Why Political Myths Resist Correction</span>
               <span class="ct-node-summary">Political myths are hard to correct when accepting the correction feels like rejecting a group or worldview.</span>
             </span>
           </a>
@@ -3539,7 +3539,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Group Cues</span>
-                  <span class="ct-node-title-full">How Online Crowds Make Myths Feel True | Politics</span>
+                  <span class="ct-node-title-full">How Online Crowds Make Myths Feel True</span>
                   <span class="ct-node-summary">Likes, shares, replies, and silence can make a false claim feel socially approved before anyone checks the evidence.</span>
                 </span>
               </a>
@@ -3559,7 +3559,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Low Conflict</span>
-                  <span class="ct-node-title-full">How to Correct Myths Without Starting a Fight | Politics</span>
+                  <span class="ct-node-title-full">How to Correct Myths Without Starting a Fight</span>
                   <span class="ct-node-summary">Corrections work better when they let people reconsider a claim without feeling humiliated, attacked, or expelled from their group.</span>
                 </span>
               </a>
@@ -3579,7 +3579,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Smart Defenses</span>
-                  <span class="ct-node-title-full">When Smart People Defend False Political Claims | Politics</span>
+                  <span class="ct-node-title-full">When Smart People Defend False Political Claims</span>
                   <span class="ct-node-summary">More knowledge can sometimes make people better at protecting identity-aligned conclusions rather than abandoning them.</span>
                 </span>
               </a>
@@ -3599,7 +3599,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Social Risk</span>
-                  <span class="ct-node-title-full">Why Changing Your Mind Can Feel Like Betrayal | Politics</span>
+                  <span class="ct-node-title-full">Why Changing Your Mind Can Feel Like Betrayal</span>
                   <span class="ct-node-summary">Accepting a correction can threaten friendships, family ties, status, and belonging when a myth has become a group signal.</span>
                 </span>
               </a>
@@ -3619,7 +3619,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">After Fact Checks</span>
-                  <span class="ct-node-title-full">Why Fact Checks Fix Facts, Not Worldviews | Politics</span>
+                  <span class="ct-node-title-full">Why Fact Checks Fix Facts, Not Worldviews</span>
                   <span class="ct-node-summary">A correction may weaken one false claim while leaving the larger distrustful story that made it persuasive intact.</span>
                 </span>
               </a>
@@ -3641,7 +3641,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Prebunking</span>
-              <span class="ct-node-title-full">Can You Protect People Before Myths Spread? | Mythcraft</span>
+              <span class="ct-node-title-full">Can You Protect People Before Myths Spread?</span>
               <span class="ct-node-summary">Prebunking teaches people the tricks behind misleading claims before they encounter a specific myth.</span>
             </span>
           </a>
@@ -3663,7 +3663,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Emotion cues</span>
-                  <span class="ct-node-title-full">Can a warning slow outrage sharing? | Prebunking</span>
+                  <span class="ct-node-title-full">Can a warning slow outrage sharing?</span>
                   <span class="ct-node-summary">Emotional prebunks teach readers to spot outrage, fear, or disgust cues before those feelings turn into belief or sharing.</span>
                 </span>
               </a>
@@ -3683,7 +3683,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Election rumours</span>
-                  <span class="ct-node-title-full">How election prebunks protect basic voting facts | Prebunking</span>
+                  <span class="ct-node-title-full">How election prebunks protect basic voting facts</span>
                   <span class="ct-node-summary">Election prebunks work best when they point voters toward official dates, locations, and vote-counting channels before rumours spread.</span>
                 </span>
               </a>
@@ -3703,7 +3703,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fact vs tactic</span>
-                  <span class="ct-node-title-full">Should a prebunk name the myth or the trick? | Prebunking</span>
+                  <span class="ct-node-title-full">Should a prebunk name the myth or the trick?</span>
                   <span class="ct-node-summary">Some warnings target a likely false claim, while others teach a reusable trick that can travel across topics.</span>
                 </span>
               </a>
@@ -3723,7 +3723,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fading effects</span>
-                  <span class="ct-node-title-full">Why one prebunk is not permanent immunity | Prebunking</span>
+                  <span class="ct-node-title-full">Why one prebunk is not permanent immunity</span>
                   <span class="ct-node-summary">A prebunk can improve recognition of manipulation, but its effects may weaken unless people see reminders in the right places.</span>
                 </span>
               </a>
@@ -3743,7 +3743,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Bad News game</span>
-                  <span class="ct-node-title-full">Why pretending to mislead can teach resistance | Prebunking</span>
+                  <span class="ct-node-title-full">Why pretending to mislead can teach resistance</span>
                   <span class="ct-node-summary">Playing the role of a misinformation producer can make manipulation tactics more visible when readers encounter them later.</span>
                 </span>
               </a>
@@ -3765,7 +3765,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Rumour Gaps</span>
-              <span class="ct-node-title-full">Why Debunks Need a Better Story | Mythcraft</span>
+              <span class="ct-node-title-full">Why Debunks Need a Better Story</span>
               <span class="ct-node-summary">Corrections work better when they fill the explanatory gap that made the rumour useful in the first place.</span>
             </span>
           </a>
@@ -3787,7 +3787,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fire Scenario</span>
-                  <span class="ct-node-title-full">The Fire Rumour That Still Explains Too Much | Rumour Gaps</span>
+                  <span class="ct-node-title-full">The Fire Rumour That Still Explains Too Much</span>
                   <span class="ct-node-summary">The warehouse fire scenario shows how people can remember a correction but still rely on a disproved cause when explaining events.</span>
                 </span>
               </a>
@@ -3807,7 +3807,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Vote Delays</span>
-                  <span class="ct-node-title-full">When Slow Counting Needs a Better Story | Rumour Gaps</span>
+                  <span class="ct-node-title-full">When Slow Counting Needs a Better Story</span>
                   <span class="ct-node-summary">Explaining ballot verification and counting steps can replace a fraud rumour with a clearer account of why delays happen.</span>
                 </span>
               </a>
@@ -3827,7 +3827,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Uncertainty</span>
-                  <span class="ct-node-title-full">When We Do Not Know Yet Is Better | Rumour Gaps</span>
+                  <span class="ct-node-title-full">When We Do Not Know Yet Is Better</span>
                   <span class="ct-node-summary">Saying what is known, unknown, and still being tested can replace false certainty without pretending the evidence is complete.</span>
                 </span>
               </a>
@@ -3847,7 +3847,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Outbreak Origins</span>
-                  <span class="ct-node-title-full">Why Outbreak Rumours Need Origin Stories | Rumour Gaps</span>
+                  <span class="ct-node-title-full">Why Outbreak Rumours Need Origin Stories</span>
                   <span class="ct-node-summary">Outbreak rumours are easier to correct when evidence about genetics and transmission gives people a plausible origin story.</span>
                 </span>
               </a>
@@ -3867,7 +3867,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Bare Denials</span>
-                  <span class="ct-node-title-full">Why Saying False Is Not Enough | Rumour Gaps</span>
+                  <span class="ct-node-title-full">Why Saying False Is Not Enough</span>
                   <span class="ct-node-summary">A correction can reduce belief yet still leave people using the old rumour when it remains the only available explanation.</span>
                 </span>
               </a>
@@ -3889,7 +3889,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Sciencey Words</span>
-              <span class="ct-node-title-full">Why Sciencey Language Makes Myths Persuasive | Mythcraft</span>
+              <span class="ct-node-title-full">Why Sciencey Language Makes Myths Persuasive</span>
               <span class="ct-node-summary">Technical words can give myths a false aura of authority when readers cannot easily judge the underlying evidence.</span>
             </span>
           </a>
@@ -3911,7 +3911,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Brain Jargon</span>
-                  <span class="ct-node-title-full">The Brain Words That Sell Weak Explanations | Sciencey Words</span>
+                  <span class="ct-node-title-full">The Brain Words That Sell Weak Explanations</span>
                   <span class="ct-node-summary">Irrelevant brain language can make ordinary explanations feel more satisfying even when it adds no real support.</span>
                 </span>
               </a>
@@ -3931,7 +3931,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Untestable Claims</span>
-                  <span class="ct-node-title-full">The Claim That Cannot Lose | Sciencey Words</span>
+                  <span class="ct-node-title-full">The Claim That Cannot Lose</span>
                   <span class="ct-node-summary">A claim that can explain away every failure is protected from evidence rather than supported by it.</span>
                 </span>
               </a>
@@ -3951,7 +3951,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Detox Claims</span>
-                  <span class="ct-node-title-full">What &#x27;Detox&#x27; Claims Usually Leave Out | Sciencey Words</span>
+                  <span class="ct-node-title-full">What &#x27;Detox&#x27; Claims Usually Leave Out</span>
                   <span class="ct-node-summary">Detox language often turns real body processes into broad product promises that are hard to measure or falsify.</span>
                 </span>
               </a>
@@ -3971,7 +3971,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Clinically Proven</span>
-                  <span class="ct-node-title-full">When &#x27;Clinically Proven&#x27; Does Not Prove Much | Sciencey Words</span>
+                  <span class="ct-node-title-full">When &#x27;Clinically Proven&#x27; Does Not Prove Much</span>
                   <span class="ct-node-summary">A label can say &#x27;clinically proven&#x27; while hiding whether the tested outcome, comparison group and study quality support the promise.</span>
                 </span>
               </a>
@@ -3991,7 +3991,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Quantum Claims</span>
-                  <span class="ct-node-title-full">Why &#x27;Quantum&#x27; Makes Weak Claims Sound Deeper | Sciencey Words</span>
+                  <span class="ct-node-title-full">Why &#x27;Quantum&#x27; Makes Weak Claims Sound Deeper</span>
                   <span class="ct-node-summary">Words like &#x27;quantum&#x27;, &#x27;frequency&#x27; and &#x27;resonance&#x27; can make vague wellness products sound precise without adding a testable claim.</span>
                 </span>
               </a>
@@ -4013,7 +4013,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Slogans</span>
-              <span class="ct-node-title-full">Why Myths Beat Nuance in a Sentence | Mythcraft</span>
+              <span class="ct-node-title-full">Why Myths Beat Nuance in a Sentence</span>
               <span class="ct-node-summary">Myths often win because short slogans travel better than the slower, more qualified truth.</span>
             </span>
           </a>
@@ -4035,7 +4035,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Backfire Risk</span>
-                  <span class="ct-node-title-full">Can myth busting accidentally spread myths? | Slogans</span>
+                  <span class="ct-node-title-full">Can myth busting accidentally spread myths?</span>
                   <span class="ct-node-summary">Putting the myth first can accidentally advertise it unless the correction leads with the fact and explains the misleading move.</span>
                 </span>
               </a>
@@ -4055,7 +4055,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Corrections</span>
-                  <span class="ct-node-title-full">What should replace a false slogan? | Slogans</span>
+                  <span class="ct-node-title-full">What should replace a false slogan?</span>
                   <span class="ct-node-summary">A useful correction does more than say false; it gives people a better explanation they can remember and reuse.</span>
                 </span>
               </a>
@@ -4075,7 +4075,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Health Slogans</span>
-                  <span class="ct-node-title-full">When health slogans leave out risk | Slogans</span>
+                  <span class="ct-node-title-full">When health slogans leave out risk</span>
                   <span class="ct-node-summary">Simple health rules can mislead when they erase dose, context, trade-offs, and the difference between mild and serious risks.</span>
                 </span>
               </a>
@@ -4095,7 +4095,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Emotion</span>
-                  <span class="ct-node-title-full">Why emotional myths travel faster | Slogans</span>
+                  <span class="ct-node-title-full">Why emotional myths travel faster</span>
                   <span class="ct-node-summary">Claims that trigger surprise, anger, pride, or belonging can travel farther because they give people a reason to share.</span>
                 </span>
               </a>
@@ -4115,7 +4115,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Repetition</span>
-                  <span class="ct-node-title-full">Why repetition makes myths feel true | Slogans</span>
+                  <span class="ct-node-title-full">Why repetition makes myths feel true</span>
                   <span class="ct-node-summary">Repetition can make a false claim feel familiar and believable, even when people have seen corrections before.</span>
                 </span>
               </a>
@@ -4137,7 +4137,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Study Practice</span>
-              <span class="ct-node-title-full">What Helps Learning More Than Learning Styles? | Mythcraft</span>
+              <span class="ct-node-title-full">What Helps Learning More Than Learning Styles?</span>
               <span class="ct-node-summary">Evidence-backed study practices offer a stronger route to learning than sorting students into fixed styles.</span>
             </span>
           </a>
@@ -4159,7 +4159,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Check gaps</span>
-                  <span class="ct-node-title-full">How recall reveals what students really know | Study Practice</span>
+                  <span class="ct-node-title-full">How recall reveals what students really know</span>
                   <span class="ct-node-summary">Recall activities help teachers spot forgotten knowledge and misconceptions before they become harder to fix.</span>
                 </span>
               </a>
@@ -4179,7 +4179,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fit the task</span>
-                  <span class="ct-node-title-full">Match the method to the lesson, not the label | Study Practice</span>
+                  <span class="ct-node-title-full">Match the method to the lesson, not the label</span>
                   <span class="ct-node-summary">Good teaching often varies format because the task demands it, not because each student has a fixed sensory type.</span>
                 </span>
               </a>
@@ -4199,7 +4199,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Style surveys</span>
-                  <span class="ct-node-title-full">Why learning preferences do not prove learning styles | Study Practice</span>
+                  <span class="ct-node-title-full">Why learning preferences do not prove learning styles</span>
                   <span class="ct-node-summary">Students may prefer certain formats, but preference alone does not show that matching instruction improves achievement.</span>
                 </span>
               </a>
@@ -4219,7 +4219,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Self testing</span>
-                  <span class="ct-node-title-full">Why rereading feels easier but works less well | Study Practice</span>
+                  <span class="ct-node-title-full">Why rereading feels easier but works less well</span>
                   <span class="ct-node-summary">Rereading can feel fluent in the moment, but self-testing usually produces stronger delayed recall.</span>
                 </span>
               </a>
@@ -4241,7 +4241,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Teacher Belief</span>
-              <span class="ct-node-title-full">How Common Is Belief in Learning Styles? | Mythcraft</span>
+              <span class="ct-node-title-full">How Common Is Belief in Learning Styles?</span>
               <span class="ct-node-summary">High reported belief in learning styles shows how an unsupported idea can become normal in professional culture.</span>
             </span>
           </a>
@@ -4263,7 +4263,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Learner labels</span>
-                  <span class="ct-node-title-full">The hidden risk of learner labels | Teacher Belief</span>
+                  <span class="ct-node-title-full">The hidden risk of learner labels</span>
                   <span class="ct-node-summary">Calling a pupil a visual or auditory learner can turn a weak theory into a fixed label that narrows effort and strategy.</span>
                 </span>
               </a>
@@ -4283,7 +4283,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Correction</span>
-                  <span class="ct-node-title-full">What changes minds about learning styles | Teacher Belief</span>
+                  <span class="ct-node-title-full">What changes minds about learning styles</span>
                   <span class="ct-node-summary">Correction can reduce endorsement sharply when it explains the matching claim and gives teachers usable alternatives.</span>
                 </span>
               </a>
@@ -4303,7 +4303,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Reported use</span>
-                  <span class="ct-node-title-full">When belief becomes classroom routine | Teacher Belief</span>
+                  <span class="ct-node-title-full">When belief becomes classroom routine</span>
                   <span class="ct-node-summary">The Wellcome survey shows how learning styles moved from belief into lesson planning and classroom routines.</span>
                 </span>
               </a>
@@ -4323,7 +4323,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Teacher belief</span>
-                  <span class="ct-node-title-full">Why new teachers still inherit learning styles | Teacher Belief</span>
+                  <span class="ct-node-title-full">Why new teachers still inherit learning styles</span>
                   <span class="ct-node-summary">Belief in learning styles appears high among both qualified teachers and people still entering the profession.</span>
                 </span>
               </a>
@@ -4343,7 +4343,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Survey wording</span>
-                  <span class="ct-node-title-full">Why survey questions make the myth easy to endorse | Teacher Belief</span>
+                  <span class="ct-node-title-full">Why survey questions make the myth easy to endorse</span>
                   <span class="ct-node-summary">Small changes in survey wording can blur preferences, variety and the stronger matching claim that evidence reviews reject.</span>
                 </span>
               </a>
@@ -4365,7 +4365,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Teacher Corrections</span>
-              <span class="ct-node-title-full">Can Teacher Training Reduce Education Myths? | Mythcraft</span>
+              <span class="ct-node-title-full">Can Teacher Training Reduce Education Myths?</span>
               <span class="ct-node-summary">Specific, evidence-based interventions can reduce belief in education myths when they explain the problem clearly.</span>
             </span>
           </a>
@@ -4387,7 +4387,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Training design</span>
-                  <span class="ct-node-title-full">How Teacher Training Can Keep Myths Gone | Teacher Corrections</span>
+                  <span class="ct-node-title-full">How Teacher Training Can Keep Myths Gone</span>
                   <span class="ct-node-summary">Durable correction needs pre-checks, clear refutation, replacement practices, follow-up coaching and audits of old materials.</span>
                 </span>
               </a>
@@ -4407,7 +4407,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Personalised fixes</span>
-                  <span class="ct-node-title-full">Should Every Teacher Hear Every Myth? | Teacher Corrections</span>
+                  <span class="ct-node-title-full">Should Every Teacher Hear Every Myth?</span>
                   <span class="ct-node-summary">Personalised myth correction may support conceptual change, but repeated exposure to weakly held myths can increase familiarity.</span>
                 </span>
               </a>
@@ -4427,7 +4427,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Learning styles</span>
-                  <span class="ct-node-title-full">What Should Replace Learning Styles? | Teacher Corrections</span>
+                  <span class="ct-node-title-full">What Should Replace Learning Styles?</span>
                   <span class="ct-node-summary">The strongest corrections separate real pupil preferences from the unsupported claim that matching sensory styles improves learning.</span>
                 </span>
               </a>
@@ -4447,7 +4447,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Practice gap</span>
-                  <span class="ct-node-title-full">When Debunking Does Not Change Teaching | Teacher Corrections</span>
+                  <span class="ct-node-title-full">When Debunking Does Not Change Teaching</span>
                   <span class="ct-node-summary">Teachers may reject a myth on a survey while old labels, worksheets and school routines keep the practice alive.</span>
                 </span>
               </a>
@@ -4467,7 +4467,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Refutation texts</span>
-                  <span class="ct-node-title-full">Why Some Myth Corrections Actually Stick | Teacher Corrections</span>
+                  <span class="ct-node-title-full">Why Some Myth Corrections Actually Stick</span>
                   <span class="ct-node-summary">Refutation texts work best when they name the myth, reject it clearly and replace it with a better explanation teachers can use.</span>
                 </span>
               </a>
@@ -4489,7 +4489,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Timing</span>
-              <span class="ct-node-title-full">When Should a Myth Be Corrected? | Mythcraft</span>
+              <span class="ct-node-title-full">When Should a Myth Be Corrected?</span>
               <span class="ct-node-summary">Fast, clear correction can limit damage, but rushed debunking can also confuse people if evidence is still uncertain.</span>
             </span>
           </a>
@@ -4511,7 +4511,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Amplification</span>
-                  <span class="ct-node-title-full">Can a correction spread the myth further? | Timing</span>
+                  <span class="ct-node-title-full">Can a correction spread the myth further?</span>
                   <span class="ct-node-summary">Some rumours need public correction, while others are better handled quietly before a wider audience sees them.</span>
                 </span>
               </a>
@@ -4531,7 +4531,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Late labels</span>
-                  <span class="ct-node-title-full">Do warning labels arrive too late? | Timing</span>
+                  <span class="ct-node-title-full">Do warning labels arrive too late?</span>
                   <span class="ct-node-summary">Labels and context boxes can help, but they arrive too late if a false post has already done most of its travelling.</span>
                 </span>
               </a>
@@ -4551,7 +4551,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Holding fixes</span>
-                  <span class="ct-node-title-full">When should you correct before certainty? | Timing</span>
+                  <span class="ct-node-title-full">When should you correct before certainty?</span>
                   <span class="ct-node-summary">A holding correction can reduce harm early by separating what is known, unknown and safest to do next.</span>
                 </span>
               </a>
@@ -4571,7 +4571,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">High harm</span>
-                  <span class="ct-node-title-full">Which myths need the fastest correction? | Timing</span>
+                  <span class="ct-node-title-full">Which myths need the fastest correction?</span>
                   <span class="ct-node-summary">Health, safety, finance and voting rumours can require faster action because people may act before a full debunk is ready.</span>
                 </span>
               </a>
@@ -4591,7 +4591,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Familiarity</span>
-                  <span class="ct-node-title-full">Why do repeated myths start feeling true? | Timing</span>
+                  <span class="ct-node-title-full">Why do repeated myths start feeling true?</span>
                   <span class="ct-node-summary">Familiarity can make a myth feel credible even when people no longer remember where it came from.</span>
                 </span>
               </a>
@@ -4613,7 +4613,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Tone</span>
-              <span class="ct-node-title-full">Why Shaming People Makes Corrections Harder | Mythcraft</span>
+              <span class="ct-node-title-full">Why Shaming People Makes Corrections Harder</span>
               <span class="ct-node-summary">Even accurate corrections can fail when they make people feel attacked, embarrassed or talked down to.</span>
             </span>
           </a>
@@ -4635,7 +4635,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Face saving</span>
-                  <span class="ct-node-title-full">How to Correct Without Cornering Someone | Tone</span>
+                  <span class="ct-node-title-full">How to Correct Without Cornering Someone</span>
                   <span class="ct-node-summary">Face-saving corrections make it easier to accept better information without treating the original mistake as a personal failure.</span>
                 </span>
               </a>
@@ -4655,7 +4655,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Intent</span>
-                  <span class="ct-node-title-full">Mistaken Is Not Always Malicious | Tone</span>
+                  <span class="ct-node-title-full">Mistaken Is Not Always Malicious</span>
                   <span class="ct-node-summary">Treating every false claim as deliberate deception can make honest mistakes harder to repair and bad actors harder to identify.</span>
                 </span>
               </a>
@@ -4675,7 +4675,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Replacements</span>
-                  <span class="ct-node-title-full">The Missing Piece in Many Corrections | Tone</span>
+                  <span class="ct-node-title-full">The Missing Piece in Many Corrections</span>
                   <span class="ct-node-summary">The strongest corrections do more than say a myth is wrong; they give readers a clearer explanation to use instead.</span>
                 </span>
               </a>
@@ -4695,7 +4695,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Public replies</span>
-                  <span class="ct-node-title-full">When Public Correction Becomes Public Shaming | Tone</span>
+                  <span class="ct-node-title-full">When Public Correction Becomes Public Shaming</span>
                   <span class="ct-node-summary">Public correction can inform bystanders, but ridicule and quote-post dunking can turn fact-checking into a status fight.</span>
                 </span>
               </a>
@@ -4715,7 +4715,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Reactance</span>
-                  <span class="ct-node-title-full">Why Harsh Corrections Can Trigger Defiance | Tone</span>
+                  <span class="ct-node-title-full">Why Harsh Corrections Can Trigger Defiance</span>
                   <span class="ct-node-summary">A correction framed as contempt or pressure can make people defend their autonomy instead of reconsidering the claim.</span>
                 </span>
               </a>
@@ -4737,7 +4737,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Uncertainty</span>
-              <span class="ct-node-title-full">Why Uncertainty Makes Myths Appealing | Mythcraft</span>
+              <span class="ct-node-title-full">Why Uncertainty Makes Myths Appealing</span>
               <span class="ct-node-summary">Myths often spread during uncertainty because they offer certainty, blame or a rule of thumb when people feel unsettled.</span>
             </span>
           </a>
@@ -4759,7 +4759,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Communicating</span>
-                  <span class="ct-node-title-full">Can Honest Uncertainty Build More Public Trust? | Uncertainty</span>
+                  <span class="ct-node-title-full">Can Honest Uncertainty Build More Public Trust?</span>
                   <span class="ct-node-summary">Clear explanations of what is known and unknown can maintain trust without relying on oversimplified stories.</span>
                 </span>
               </a>
@@ -4779,7 +4779,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Need Closure</span>
-                  <span class="ct-node-title-full">How the Need for Closure Fuels Conspiracy Beliefs | Uncertainty</span>
+                  <span class="ct-node-title-full">How the Need for Closure Fuels Conspiracy Beliefs</span>
                   <span class="ct-node-summary">The desire for quick and definite answers can make conspiracy explanations feel emotionally satisfying.</span>
                 </span>
               </a>
@@ -4799,7 +4799,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Fake News</span>
-                  <span class="ct-node-title-full">When Feelings Override Evidence in News Judgments | Uncertainty</span>
+                  <span class="ct-node-title-full">When Feelings Override Evidence in News Judgments</span>
                   <span class="ct-node-summary">Strong emotional reactions can make false information seem credible even when evidence is available.</span>
                 </span>
               </a>
@@ -4819,7 +4819,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Anxiety Effects</span>
-                  <span class="ct-node-title-full">Why Do Anxious People Prefer Simple Explanations? | Uncertainty</span>
+                  <span class="ct-node-title-full">Why Do Anxious People Prefer Simple Explanations?</span>
                   <span class="ct-node-summary">Anxiety increases the appeal of explanations that replace ambiguity with a clear story and outcome.</span>
                 </span>
               </a>
@@ -4839,7 +4839,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Blame Seeking</span>
-                  <span class="ct-node-title-full">Why Uncertainty Creates a Search for Someone to Blame | Uncertainty</span>
+                  <span class="ct-node-title-full">Why Uncertainty Creates a Search for Someone to Blame</span>
                   <span class="ct-node-summary">Assigning responsibility can reduce discomfort when complex events seem confusing or uncontrollable.</span>
                 </span>
               </a>
@@ -4861,7 +4861,7 @@ description: Browse the full structured site index.
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Vaccines</span>
-              <span class="ct-node-title-full">What the Vaccine Autism Myth Teaches Debunkers | Mythcraft</span>
+              <span class="ct-node-title-full">What the Vaccine Autism Myth Teaches Debunkers</span>
               <span class="ct-node-summary">The MMR-autism claim shows why corrections need to explain discredited origins, later evidence and timing confusion.</span>
             </span>
           </a>
@@ -4883,7 +4883,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Wakefield paper</span>
-                  <span class="ct-node-title-full">How One Weak Paper Became a Public Myth | Vaccines</span>
+                  <span class="ct-node-title-full">How One Weak Paper Became a Public Myth</span>
                   <span class="ct-node-summary">The Wakefield paper became powerful before its weak design, misconduct findings and retraction caught up with its public impact.</span>
                 </span>
               </a>
@@ -4903,7 +4903,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Respectful correction</span>
-                  <span class="ct-node-title-full">How To Correct The Myth Without Harm | Vaccines</span>
+                  <span class="ct-node-title-full">How To Correct The Myth Without Harm</span>
                   <span class="ct-node-summary">A better correction rejects false vaccine claims while respecting parents and avoiding language that treats autism as a catastrophe.</span>
                 </span>
               </a>
@@ -4923,7 +4923,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Large studies</span>
-                  <span class="ct-node-title-full">What Larger Studies Found About MMR | Vaccines</span>
+                  <span class="ct-node-title-full">What Larger Studies Found About MMR</span>
                   <span class="ct-node-summary">Later studies moved the question from 12 selected children to hundreds of thousands of children without finding increased autism risk.</span>
                 </span>
               </a>
@@ -4943,7 +4943,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Shifting claims</span>
-                  <span class="ct-node-title-full">When The Claim Changes Its Target | Vaccines</span>
+                  <span class="ct-node-title-full">When The Claim Changes Its Target</span>
                   <span class="ct-node-summary">Claims often move from MMR to thimerosal, mercury or aluminium, but broader reviews still do not support a vaccine-autism link.</span>
                 </span>
               </a>
@@ -4963,7 +4963,7 @@ description: Browse the full structured site index.
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Timing trap</span>
-                  <span class="ct-node-title-full">Why The Timing Can Feel So Convincing | Vaccines</span>
+                  <span class="ct-node-title-full">Why The Timing Can Feel So Convincing</span>
                   <span class="ct-node-summary">MMR vaccination and visible autism signs can happen in the same early years, making a real sequence feel like proof of cause.</span>
                 </span>
               </a>

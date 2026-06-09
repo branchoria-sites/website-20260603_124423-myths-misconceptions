@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-false/
 description: Focused pages that expand on False Balance.
-date: '2026-06-03'
+date: '2026-06-09'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
 parent_title: False Balance | Myths And Misconceptions

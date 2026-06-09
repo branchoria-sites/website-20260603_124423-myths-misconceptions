@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7/
 description: Focused pages that expand on Rumour Gaps.
-date: '2026-06-03'
+date: '2026-06-09'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
 parent_title: Rumour Gaps | Myths And Misconceptions

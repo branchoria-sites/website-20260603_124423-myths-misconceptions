@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-continued/
 description: Focused pages that expand on Old Stories.
-date: '2026-06-03'
+date: '2026-06-09'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
 parent_title: Old Stories | Myths And Misconceptions

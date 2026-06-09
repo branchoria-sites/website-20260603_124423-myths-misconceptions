@@ -205,6 +205,10 @@
                   <button class="sidebar-tree-btn page-tools-close" type="button" data-mobile-page-tools-close aria-label="{{ ui.close_page_outline_panel | default: 'Close page outline panel' | escape }}">{{ ui.close | default: 'Close' }}</button>
                 </div>
                 <div class="page-tools-shell">
+                  <div class="page-toc-actions page-toc-actions-top mobile-page-toc-actions" data-page-toc-actions-top hidden>
+                    <button class="sidebar-tree-btn" type="button" data-page-toc-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
+                    <button class="sidebar-tree-btn" type="button" data-page-toc-collapse-all>{{ ui.collapse_all | default: 'Collapse all' }}</button>
+                  </div>
                   <nav class="page-toc mobile-page-toc" data-mobile-page-toc aria-label="{{ ui.on_this_page | default: 'On this page' | escape }}"></nav>
                   <div class="page-toc-actions mobile-page-toc-actions">
                     <button class="sidebar-tree-btn" type="button" data-page-toc-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
@@ -349,6 +353,10 @@
                 <button class="sidebar-tree-btn sidebar-hide-btn page-tools-close" type="button" data-sidebar-hide="left" aria-label="{{ ui.close_page_outline_panel | default: 'Close page outline panel' | escape }}">{{ ui.close | default: 'Close' }}</button>
               </div>
               <div class="page-tools-shell">
+                <div class="page-toc-actions page-toc-actions-top" data-page-toc-actions-top hidden>
+                  <button class="sidebar-tree-btn" type="button" data-page-toc-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
+                  <button class="sidebar-tree-btn" type="button" data-page-toc-collapse-all>{{ ui.collapse_all | default: 'Collapse all' }}</button>
+                </div>
                 <nav class="page-toc" data-page-toc aria-label="{{ ui.on_this_page | default: 'On this page' | escape }}"></nav>
                 <div class="page-toc-actions">
                   <button class="sidebar-tree-btn" type="button" data-page-toc-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-false/
 description: Focused pages that expand on Health Claims.
-date: '2026-06-03'
+date: '2026-06-09'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
 parent_title: Health Claims | Myths And Misconceptions

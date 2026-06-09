@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-conceptual/
 description: Focused pages that expand on Concept Change.
-date: '2026-06-03'
+date: '2026-06-09'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
 parent_title: Concept Change | Myths And Misconceptions
